@@ -1,0 +1,40 @@
+{
+    "client_type_options": [
+        {
+            "value": "ACO",
+            "code": "ACO"
+        },
+        {
+            "value": "Health Plan",
+            "code": "HPlan"
+        },
+        {
+            "value": "Health System",
+            "code": "HSystem"
+        },
+        {
+            "value": "PCMH",
+             "code": "PCMH"
+            
+        },
+        {
+            "value": "BH",
+            "code": "BH"
+        }
+    ],
+    "contract_group_options": [
+        {
+            "value": "Group1",
+            "code": "Group1"
+        },
+        {
+            "value": "Group2",
+            "code": "Group2"
+        },
+        {
+            "value": "Group3",
+            "code": "Group3"
+        }
+    ],
+    "contract_template": []
+}

@@ -1,0 +1,40 @@
+{
+    "define_measure_weights":[
+       {
+          "category":"HEDIS",
+          "measure_name":"Medication Management for People With Asthma",
+          "alternative_measure_name":"",
+          "alternative_measure_weight":"",
+          "domain":"",
+          "open":false,
+          "standard":false,
+          "custom":false,
+          "customPoints":[
+ 
+          ]
+       },
+       {
+          "category":"HEDIS",
+          "measure_name":"Medication Management for People With Asthma",
+          "alternative_measure_name":"",
+          "alternative_measure_weight":"",
+          "domain":"",
+          "open":true,
+          "standard":false,
+          "custom":true,
+          "customPoints":[
+             {
+                "tier":1,
+                "lower_limit":{"id": 1, "value": "10"},
+                "options":[
+                   "1", "2"
+                ],
+                "cut_point":{"id": 1, "value": "10"},
+                "points": "1",
+                "edit":true
+             }
+          ]
+       }
+    ]
+  
+ }

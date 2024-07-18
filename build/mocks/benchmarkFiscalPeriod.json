@@ -1,0 +1,386 @@
+{
+  "fiscal_period_option": [
+    {
+      "code": "0",
+      "value": "January"
+    },
+    {
+      "code": "1",
+      "value": "February"
+    },
+    {
+      "code": "2",
+      "value": "March"
+    },
+    {
+      "code": "3",
+      "value": "April"
+    },
+    {
+      "code": "4",
+      "value": "May"
+    },
+    {
+      "code": "5",
+      "value": "June"
+    },
+    {
+      "code": "6",
+      "value": "July"
+    },
+    {
+      "code": "7",
+      "value": "August"
+    },
+    {
+      "code": "8",
+      "value": "September"
+    },
+    {
+      "code": "9",
+      "value": "October"
+    },
+    {
+      "code": "10",
+      "value": "November"
+    },
+    {
+      "code": "11",
+      "value": "December"
+    }
+  ],
+  "length_of_period_option": [
+    {
+      "code": "1",
+      "value": "1 Month"
+    },
+    {
+      "code": "2",
+      "value": "2 Months"
+    },
+    {
+      "code": "3",
+      "value": "3 Months"
+    },
+    {
+      "code": "4",
+      "value": "4 Months"
+    },
+    {
+      "code": "5",
+      "value": "5 Months"
+    },
+    {
+      "code": "6",
+      "value": "6 Months"
+    },
+    {
+      "code": "7",
+      "value": "7 Months"
+    },
+    {
+      "code": "8",
+      "value": "8 Months"
+    },
+    {
+      "code": "9",
+      "value": "9 Months"
+    },
+    {
+      "code": "10",
+      "value": "10 Months"
+    },
+    {
+      "code": "11",
+      "value": "11 Months"
+    },
+    {
+      "code": "12",
+      "value": "12 Months"
+    }
+  ],
+  "runout_period_option": [
+    {
+      "code": "0",
+      "value": "0 Month"
+    },
+    {
+      "code": "1",
+      "value": "1 Month"
+    },
+    {
+      "code": "2",
+      "value": "2 Months"
+    },
+    {
+      "code": "3",
+      "value": "3 Months"
+    },
+    {
+      "code": "4",
+      "value": "4 Months"
+    },
+    {
+      "code": "5",
+      "value": "5 Months"
+    },
+    {
+      "code": "6",
+      "value": "6 Months"
+    }
+  ],
+  "medical_statistics": [
+    {
+      "first_item": "Incurred Date Range",
+      "last_item": "Jan 15 - Dec 19",
+      "period_3": "Jan 17 - Dec 17",
+      "period_2": "Jan 18 - Dec 18",
+      "period_5": "Jan 15 - Dec 15",
+      "period_4": "Jan 16 - Dec 16",
+      "period_1": "Jan 19 - Dec 19"
+    },
+
+    {
+      "first_item": "Market Members",
+      "period_1": "8,116",
+      "period_2": "9,303",
+      "period_4": "7,692",
+      "period_3": "8,641",
+      "period_5": "2,819",
+      "last_item": "36,571"
+    },
+
+    {
+      "first_item": "Market Member Months",
+      "last_item": "414,632",
+      "period_3": "100,243",
+      "period_2": "108,189",
+      "period_5": "23,192",
+      "period_4": "88,525",
+      "period_1": "94,483"
+    },
+    {
+      "first_item": "Total Medical Expense",
+      "last_item": "$166,035,485",
+      "period_3": "$50,459,215",
+      "period_2": "$57,796,418",
+      "period_5": 0,
+      "period_4": "$39,528,243",
+      "period_1": "$18,230,279"
+    },
+    {
+      "first_item": "Inpatient",
+      "last_item": "$166,035,485",
+      "period_3": "$50,459,215",
+      "period_2": "$57,796,418",
+      "period_5": "$21,330",
+      "period_4": "$39,528,243",
+      "period_1": "$18,230,279"
+    },
+    {
+      "first_item": "Outpatient",
+      "last_item": "$166,035,485",
+      "period_3": "$50,459,215",
+      "period_2": "$57,796,418",
+      "period_5": "$21,330",
+      "period_4": "$39,528,243",
+      "period_1": "$18,230,279"
+    },
+    {
+      "first_item": "Professional",
+      "last_item": "$166,035,485",
+      "period_3": "$50,459,215",
+      "period_2": "$57,796,418",
+      "period_5": "$21,330",
+      "period_4": "$39,528,243",
+      "period_1": "$18,230,279"
+    },
+
+    {
+      "first_item": "Stop Loss Adjustment",
+      "last_item": "($89,767,959)",
+      "period_3": "($28,090,336)",
+      "period_2": "($32,721,457)",
+      "period_5": "($5,382)",
+      "period_4": "($21,052,461)",
+      "period_1": "($7,898,323)"
+    },
+    {
+      "first_item": "Stop Loss Adjusted Total Medical Expense",
+      "last_item": "$76,267,526",
+      "period_3": "$22,368,879",
+      "period_2": "$25,074,961",
+      "period_5": 0,
+      "period_4": "$18,475,782",
+      "period_1": "$10,331,956"
+    },
+    {
+      "first_item": "Average Risk Score",
+      "last_item": "0.51",
+      "period_3": "0.73",
+      "period_2": "0.85",
+      "period_5": "0.01",
+      "period_4": "0.56",
+      "period_1": "0.56"
+    },
+    {
+      "first_item": "Risk Adjusted Medical PMPM",
+      "last_item": "$363.76",
+      "period_3": "$304.24",
+      "period_2": "$271.41",
+      "period_5": "$47.71",
+      "period_4": "$374.66",
+      "period_1": "$295.99"
+    },
+    {
+      "first_item": "Number of Months in Period",
+      "last_item": 45,
+      "period_3": 12,
+      "period_2": 12,
+      "period_5": 1,
+      "period_4": 12,
+      "period_1": 8
+    },
+    {
+      "historic_medical_total": "$99,999"
+    }
+  ],
+  "medical_drugs": [
+    {
+      "first_item": "Incurred Date Range",
+      "last_item": "Jan 15 - Dec 19",
+      "period_3": "Jan 17 - Dec 17",
+      "period_2": "Jan 18 - Dec 18",
+      "period_5": "Jan 15 - Dec 15",
+      "period_4": "Jan 16 - Dec 16",
+      "period_1": "Jan 19 - Dec 19"
+    },
+    {
+      "first_item": "Market Members",
+      "last_item": "15,141",
+      "period_3": "3,847",
+      "period_2": "4,139",
+      "period_5": "522",
+      "period_4": "3,351",
+      "period_1": "3,282"
+    },
+    {
+      "first_item": "Market Member Months",
+      "last_item": "181,656",
+      "period_3": "181,656",
+      "period_2": "40,212",
+      "period_5": "40,212",
+      "period_4": "40,212",
+      "period_1": "40,212"
+    },
+    {
+      "first_item": "Total Drug Expenses",
+      "last_item": "$108,004,521",
+      "period_3": "$33,060,805",
+      "period_2": "$34,634,243",
+      "period_5": "$461,850",
+      "period_4": "$27,391,519",
+      "period_1": "$12,456,104"
+    },
+    {
+      "first_item": "Stop Loss Adjustment",
+      "last_item": "($44,688)",
+      "period_3": "($7,235)",
+      "period_2": "($35,716)",
+      "period_5": "($35,716)",
+      "period_4": "($1,737)",
+      "period_1": "($35,716)"
+    },
+    {
+      "first_item": "Stop Loss Adjusted Total Drug Expense",
+      "last_item": "$107,959,833",
+      "period_3": "$33,053,570",
+      "period_2": "$34,598,527",
+      "period_5": "$461,850",
+      "period_4": "$27,389,782",
+      "period_1": "$12,456,104"
+    },
+    {
+      "first_item": "Average Risk Score",
+      "last_item": "0.51",
+      "period_3": "0.69",
+      "period_2": "0.88",
+      "period_5": "0.01",
+      "period_4": "0.59",
+      "period_1": "0.36"
+    },
+    {
+      "first_item": "Risk Adjusted Drug PMPM",
+      "last_item": "$1,172.24",
+      "period_3": "$1,030.49",
+      "period_2": "$794.17",
+      "period_5": "$5,661.80",
+      "period_4": "$1,158.81",
+      "period_1": "$874.37"
+    },
+    {
+      "first_item": "Number of Months in Period",
+      "last_item": 42,
+      "period_3": 12,
+      "period_2": 12,
+      "period_5": 1,
+      "period_4": 12,
+      "period_1": 5
+    },
+    {
+      "historic_medica_total": ""
+    }
+  ],
+  "historic_medical_total": [
+    {
+      "total": "130.0985%",
+      "period_3": -21.057160581025315,
+      "period_2": -26.029016559938825,
+      "period_5": 0,
+      "period_4": -100,
+      "period_1": 0
+    }
+  ],
+  "historic_medical_inpatient_total": [
+    {
+      "total": "130.0985%",
+      "period_3": -21.057160581025315,
+      "period_2": -26.029016559938825,
+      "period_5": 50,
+      "period_4": -4,
+      "period_1": 0
+    }
+  ],
+  "historic_medical_outpatient_total": [
+    {
+      "total": "130.0985%",
+      "period_3": -21.057160581025315,
+      "period_2": -26.029016559938825,
+      "period_5": 0,
+      "period_4": -40,
+      "period_1": 0
+    }
+  ],
+  "historic_medical_professional_total": [
+    {
+      "total": "130.0985%",
+      "period_3": -21.057160581025315,
+      "period_2": -26.029016559938825,
+      "period_5": 0,
+      "period_4": -44,
+      "period_1": 0
+    }
+  ],
+
+  "historic_drug_total": [
+    {
+      "total": "-21.1392%",
+      "period_3": 4.064539460457553,
+      "period_2": -7.017880760153545,
+      "period_5": 0,
+      "period_4": -100,
+      "period_1": -7.751566909907786
+    }
+  ],
+  "paid_date_range": { "value": " Dec 2015- Aug 2019" }
+}

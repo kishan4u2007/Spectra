@@ -1,0 +1,343 @@
+{
+  "benchmark_period_trends_cs": [
+    {
+      "bool": [{ "provider_override_trend": false }],
+      "items": [
+        {
+          "provider_rate": "0.00%",
+          "benchmark_period": "Inpatient",
+          "provider_override_trend": "0.00%"
+        },
+        {
+          "provider_rate": "0.00%",
+          "benchmark_period": "Outpatient",
+          "provider_override_trend": "0.00%"
+        },
+        {
+          "provider_rate": "0.00%",
+          "benchmark_period": "Professional",
+          "provider_override_trend": "0.00%"
+        },
+        {
+          "provider_rate": "0.00%",
+          "benchmark_period": "Drug",
+          "provider_override_trend": "0.00%"
+        },
+        {
+          "provider_rate": "0.00%",
+          "benchmark_period": "Non-Claims",
+          "provider_override_trend": "0.00%"
+        }
+      ]
+    }
+  ],
+  "gross_savings_adjustment": [
+    {
+      "percent_of_budget": "100.00%",
+      "category": "Max. Gross Savings",
+      "pmpm": "$2,621.80"
+    },
+    {
+      "percent_of_budget": "0.00%",
+      "category": "Max. Gross (Losses)",
+      "pmpm": "$0.00"
+    },
+    {
+      "percent_of_budget": "0.00%",
+      "category": "Min. Gross Savings",
+      "pmpm": "$0.00"
+    },
+    {
+      "percent_of_budget": "0.00%",
+      "category": "Min. Gross (Losses)",
+      "pmpm": "$0.00"
+    },
+    {
+      "percent_of_budget": "100.00%",
+      "category": "Performance Period Gross Savings / (Losses)",
+      "pmpm": "$2,621.80"
+    }
+  ],
+  "final_performance_period": [
+    {
+      "aggergate": "$0",
+      "final_performance_period": "Shared Savings / (Losses)",
+      "pmpm": "$91.76"
+    }
+  ],
+  "performance_period_budget": [
+    {
+      "total": [
+        {
+          "sst_pmpm": "$745.89",
+          "risk_adjusted_sst": "$2,217,126,420",
+          "adjusted_drt_pmpm": "$2,621.80",
+          "sst": "$668,700,680",
+          "performance_risk_score": "8.0000",
+          "drt": "$668,700,680",
+          "benchmark_risk_score": "2.0000",
+          "risk_adjusted_drt": "$2,217,126,420",
+          "adjusted_sst_pmpm": "$2,621.80",
+          "category": "Grand Total",
+          "drt_pmpm": "$745.89",
+          "risk_adjustment_factor": ""
+        }
+      ],
+      "items": [
+        {
+          "sst_pmpm": "$262.32",
+          "risk_adjusted_sst": "$1,327,475,624",
+          "adjusted_drt_pmpm": "$1,049.28",
+          "sst": "$331,868,906",
+          "performance_risk_score": "4.0000",
+          "drt": "$331,868,906",
+          "benchmark_risk_score": "1.0000",
+          "risk_adjusted_drt": "$1,327,475,624",
+          "adjusted_sst_pmpm": "$1,049.28",
+          "category": "Medical",
+          "drt_pmpm": "$262.32",
+          "risk_adjustment_factor": "4.0000"
+        },
+        {
+          "sst_pmpm": "$393.13",
+          "risk_adjusted_sst": "$889,650,796",
+          "adjusted_drt_pmpm": "$1,572.52",
+          "sst": "$222,412,699",
+          "performance_risk_score": "4.0000",
+          "drt": "$222,412,699",
+          "benchmark_risk_score": "1.0000",
+          "risk_adjusted_drt": "$889,650,796",
+          "adjusted_sst_pmpm": "$1,572.52",
+          "category": "Drug",
+          "drt_pmpm": "$393.13",
+          "risk_adjustment_factor": "4.0000"
+        },
+        {
+          "sst_pmpm": "$90.44",
+          "risk_adjusted_sst": "-",
+          "adjusted_drt_pmpm": "-",
+          "sst": "$114,419,075",
+          "performance_risk_score": "-",
+          "drt": "$114,419,075",
+          "benchmark_risk_score": "-",
+          "risk_adjusted_drt": "-",
+          "adjusted_sst_pmpm": "-",
+          "category": "Non-Claims",
+          "drt_pmpm": "$90.44",
+          "risk_adjustment_factor": "-"
+        }
+      ]
+    }
+  ],
+  "risk_adjustment": [
+    {
+      "total": [
+        {
+          "performance_override_risk_score": "8.0000",
+          "performance_risk_score": "0.0000",
+          "benchmark_risk_score": "1.5457",
+          "override_risk_score": "2.0000",
+          "category": "Grand Total"
+        }
+      ],
+      "bool": [
+        {
+          "performance_override_risk_score": true,
+          "benchmark_override_risk_score": true
+        }
+      ],
+      "items": [
+        {
+          "performance_override_risk_score": "4.0000",
+          "performance_risk_score": "0.0000",
+          "benchmark_risk_score": "0.7727",
+          "override_risk_score": "1.0000",
+          "category": "Medical"
+        },
+        {
+          "performance_override_risk_score": "4.0000",
+          "performance_risk_score": "0.0000",
+          "benchmark_risk_score": "0.7730",
+          "override_risk_score": "1.0000",
+          "category": "Drug"
+        }
+      ]
+    }
+  ],
+  "risk_type": {
+    "code": "downside",
+    "id": "downside",
+    "value": "Upside / Downside"
+  },
+  "perfomance_period_membership": [
+    {
+      "months": "0",
+      "risk_score": "0.0000",
+      "members": "0",
+      "category": "Medical"
+    },
+    {
+      "months": "0",
+      "risk_score": "0.0000",
+      "members": "0",
+      "category": "Drug"
+    }
+  ],
+  "contractSettlementBasis": "ACTUAL",
+  "initial_performance_period": [
+    { "rate": "50.00%", "category": "Shared Savings", "pmpm": "$1,310.90" },
+    { "rate": "0.00%", "category": "Shared (Losses)", "pmpm": "$0.00" },
+    { "rate": "7.00%", "category": "Quality Adjustment Rate", "pmpm": "-" },
+    {
+      "rate": "3.50%",
+      "category": "Quality Adjusted Shared Savings / (Losses)",
+      "pmpm": "$91.76"
+    }
+  ],
+  "performance_period_projected_expense": [
+    {
+      "total": [
+        {
+          "stop_loss": "$0",
+          "claim_type": "",
+          "benchmark_pmpm": "$0.00",
+          "projected_claims": "$0",
+          "benchmark_period_actual": "$0",
+          "claim_category": "Total Expenses",
+          "adjusted_pmpm": "$0.00",
+          "performance_period_projection": "$0",
+          "projected_pmpm": "$0.00",
+          "savings": "$2,621.80",
+          "annual_trend_rate": "-",
+          "savings_percent": "166.73%",
+          "actual_claims": "$0"
+        }
+      ],
+      "items": [
+        {
+          "benchmark_period_actual": "$0",
+          "claim_category": "Medical",
+          "stop_loss": "-",
+          "adjusted_pmpm": "-",
+          "performance_period_projection": "$0",
+          "claim_type": "Inpatient",
+          "benchmark_pmpm": "$0.00",
+          "projected_pmpm": "$0.00",
+          "projected_claims": "-",
+          "savings": "-",
+          "annual_trend_rate": "0.00%",
+          "actual_claims": "-"
+        },
+        {
+          "benchmark_period_actual": "$0",
+          "claim_category": "Medical",
+          "stop_loss": "-",
+          "adjusted_pmpm": "-",
+          "performance_period_projection": "$0",
+          "claim_type": "Outpatient",
+          "benchmark_pmpm": "$0.00",
+          "projected_pmpm": "$0.00",
+          "projected_claims": "-",
+          "savings": "-",
+          "annual_trend_rate": "0.00%",
+          "actual_claims": "-"
+        },
+        {
+          "benchmark_period_actual": "$0",
+          "claim_category": "Medical",
+          "stop_loss": "-",
+          "adjusted_pmpm": "-",
+          "performance_period_projection": "$0",
+          "claim_type": "Professional",
+          "benchmark_pmpm": "$0.00",
+          "projected_pmpm": "$0.00",
+          "projected_claims": "-",
+          "savings": "-",
+          "annual_trend_rate": "0.00%",
+          "actual_claims": "-"
+        },
+        {
+          "stop_loss": "$0",
+          "claim_type": "Total",
+          "benchmark_pmpm": "$0.00",
+          "projected_claims": "$0",
+          "benchmark_period_actual": "$0",
+          "claim_category": "Medical",
+          "adjusted_pmpm": "$0.00",
+          "performance_period_projection": "$0",
+          "projected_pmpm": "$0.00",
+          "savings": "$1,049.28",
+          "annual_trend_rate": "-",
+          "savings_percent": "66.73%",
+          "actual_claims": "$0"
+        },
+        {
+          "stop_loss": "$0",
+          "claim_type": "",
+          "benchmark_pmpm": "$0.00",
+          "projected_claims": "$0",
+          "benchmark_period_actual": "$0",
+          "claim_category": "Drug",
+          "adjusted_pmpm": "$0.00",
+          "performance_period_projection": "$0",
+          "projected_pmpm": "$0.00",
+          "savings": "$1,572.52",
+          "annual_trend_rate": "0.00%",
+          "savings_percent": "100.00%",
+          "actual_claims": "$0"
+        },
+        {
+          "benchmark_period_actual": "$0",
+          "claim_category": "Non-Claims",
+          "stop_loss": "$0",
+          "adjusted_pmpm": "$0.00",
+          "performance_period_projection": "$0",
+          "claim_type": "",
+          "benchmark_pmpm": "$0.00",
+          "projected_pmpm": "$0.00",
+          "projected_claims": "-",
+          "savings": "$0.00",
+          "annual_trend_rate": "0.00%",
+          "actual_claims": "-"
+        }
+      ]
+    }
+  ],
+  "shared_savings_adjustment": [
+    {
+      "percent_of_budget": "100.00%",
+      "category": "Max. Shared Savings",
+      "pmpm": "$1,310.90"
+    },
+    {
+      "percent_of_budget": "0.00%",
+      "category": "Max. Shared (Losses)",
+      "pmpm": "$0.00"
+    },
+    {
+      "percent_of_budget": "0.00%",
+      "category": "Min. Shared Savings",
+      "pmpm": "$0.00"
+    },
+    {
+      "percent_of_budget": "0.00%",
+      "category": "Min. Shared (Losses)",
+      "pmpm": "$0.00"
+    },
+    {
+      "percent_of_budget": "3.50%",
+      "category": "Performance Period Shared Savings / (Losses)",
+      "pmpm": "$91.76"
+    }
+  ],
+  "medical_loss_ratio_cs": [
+    { "item": "Premium Earned", "value": "$80,000" },
+    { "item": "Incurred Claims", "value": "$65,000" },
+    { "item": "Medical", "value": "$50,000" },
+    { "item": "Drug", "value": "$15,000" },
+    { "item": "Non-Claims Expenses", "value": "$1,000" },
+    { "item": "MLR Numerator", "value": "$66,000" },
+    { "item": "MLR Denominator", "value": "$66,000" },
+    { "item": "Unadjusted MLR", "value": "82.50%" }
+  ]
+}

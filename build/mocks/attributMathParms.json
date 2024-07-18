@@ -1,0 +1,33 @@
+{
+"include_plurality_1": {
+    "bool": true,
+    "attributable_specialities": {
+      "options": [],
+      "selecteds": [1]
+    },
+    "attributable_services": {
+      "options": [],
+      "selecteds": ["3025F"]
+    },
+    "attributable_places_of_service": {
+      "options": [],
+      "selecteds": [2]
+    },
+    "plurality_basis": {"id": "allow", "code": "allow"},
+    "loopback_period_start_date_month": { "id": "jan", "code": "jan"},
+    "loopback_period_end_date_month": {"id": "jan", "code": "jan"},
+    "loopback_period_start_date_year": { "id": "2020", "code": "2020"},
+    "loopback_period_end_date_year": {"id": "2020", "code": "2020"},
+    "plurality_basis_options" : [],
+    "loopback_period_start_date_month_options": [],
+    "loopback_period_end_date_month_options" : [],
+    "loopback_period_start_date_year_options": [],
+    "loopback_period_end_date_year_options" : [],
+
+		"attribution_tie_break1_options": [],
+		"attribution_tie_break2_options": [],
+		"attribution_tie_break3_options": [],
+		"attribution_tie_break4_options": []
+  },
+  "include_voluntary_alignment": {"value": "No"}
+}

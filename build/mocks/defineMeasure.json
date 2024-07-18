@@ -1,0 +1,27 @@
+{
+    "define_measure_weights":[
+       {
+          "category":"HEDIS",
+          "measure_name":"Medication Management for People With Asthma",
+          "alternative_measure_name":"1.5%",
+          "alternative_measure_weight":"1.5%",
+          "domain":"spectra",
+          "open":true,
+          "standard":false,
+          "custom":true,
+          "customPoints":[
+             {
+                "tier":1,
+                "lower_limit":{"id": 1, "value": "20"},
+                "options":[
+                   "1", "2"
+                ],
+                "cut_point":{"id": 1, "value": "30"},
+                "points": "1",
+                "edit":true
+             }
+          ]
+       }
+    ]
+  
+ }

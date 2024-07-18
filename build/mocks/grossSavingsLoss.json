@@ -1,0 +1,72 @@
+{
+    
+    "benchmark_period": [
+        {
+            "first_item": "Benchmark Risk Adjusted Medical Expense PMPM",
+            "market": "$10,000",
+            "provider_network": "$500",
+            "edit": false
+            
+        },
+        {
+            "first_item": "Benchmark Risk Adjusted Medical Expense PMPM",
+            "market": "10%",
+            "provider_network": "4%",
+             "edit": false
+        },
+        {
+            "first_item": "Override Benchmark Medical Expense Trend Rate",
+            "market": "16%",
+            "provider_network": "14%",
+            "edit": true
+        },
+        {
+            "first_item": "Benchmark Medical Inpatient Trend Rate",
+            "market": "6%",
+            "provider_network": "4%",
+            "edit": false
+        },
+        {
+            "first_item": "Override Benchmark Medical Inpatient Trend Rate",
+            "market": "6%",
+            "provider_network": "4%",
+            "edit": true
+        },
+        {
+            "first_item": "Benchmark Risk Adjusted Drug Expense PMPM",
+            "market": "$500",
+            "provider_network": "$300",
+            "edit": false
+        },
+        {
+            "first_item": "Benchmark Drug Expense Trend Rate (Annual)",
+            "market": "6%",
+            "provider_network": "4%",
+            "edit": false
+        },
+        {
+            "first_item": "Override Benchmark Drug Expense Trend Rate",
+            "market": "6%",
+            "provider_network": "4%",
+            "edit": true
+        }
+    ],
+    "performance_period": [
+        {
+            "first_item": "Projected Risk Adjusted Medical Expense PMPM",    
+            "market": "$1,060",
+            "provider_network": "$520"
+        },
+        {
+            "first_item": "Projected Risk Adjusted Medical Expense PMPM",    
+            "market": "$530",
+            "provider_network": "$312"
+        },
+        {
+            "first_item": "Projected Risk Adjusted Total Expense PPM",    
+            "market": "$1590",
+            "provider_network": "$832"
+        }
+        
+    ]
+}

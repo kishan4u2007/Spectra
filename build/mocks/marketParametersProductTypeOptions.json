@@ -1,0 +1,21 @@
+{ 
+    "product_type_options": [
+        {
+            "value": "EPO",
+            "code": "EPO"
+        },
+        {
+            "value": "Indemnity",
+            "code": "IND"
+            
+        },
+        {
+            "value": "HMO",
+            "code": "HMO"
+        },
+        {
+            "value": "PPO",
+            "code": "PPO"
+        }
+    ]
+}

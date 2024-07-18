@@ -1,0 +1,42 @@
+{
+  "files": {
+    "static/js/0.07c6510a.chunk.js": "/ContractModeler/static/build/static/js/0.07c6510a.chunk.js",
+    "static/js/1.e4a6ca35.chunk.js": "/ContractModeler/static/build/static/js/1.e4a6ca35.chunk.js",
+    "main.css": "/ContractModeler/static/build/static/css/main.59469673.chunk.css",
+    "main.js": "/ContractModeler/static/build/static/js/main.0c3d8f62.chunk.js",
+    "runtime-main.js": "/ContractModeler/static/build/static/js/runtime-main.11ab2b02.js",
+    "static/css/4.f1fbc315.chunk.css": "/ContractModeler/static/build/static/css/4.f1fbc315.chunk.css",
+    "static/js/4.5bb7534d.chunk.js": "/ContractModeler/static/build/static/js/4.5bb7534d.chunk.js",
+    "static/css/5.f132c139.chunk.css": "/ContractModeler/static/build/static/css/5.f132c139.chunk.css",
+    "static/js/5.e1c366e6.chunk.js": "/ContractModeler/static/build/static/js/5.e1c366e6.chunk.js",
+    "static/css/6.c67aad1d.chunk.css": "/ContractModeler/static/build/static/css/6.c67aad1d.chunk.css",
+    "static/js/6.c9321543.chunk.js": "/ContractModeler/static/build/static/js/6.c9321543.chunk.js",
+    "static/css/7.5970fcc0.chunk.css": "/ContractModeler/static/build/static/css/7.5970fcc0.chunk.css",
+    "static/js/7.2c6b5ba1.chunk.js": "/ContractModeler/static/build/static/js/7.2c6b5ba1.chunk.js",
+    "static/css/8.d210fceb.chunk.css": "/ContractModeler/static/build/static/css/8.d210fceb.chunk.css",
+    "static/js/8.913337d0.chunk.js": "/ContractModeler/static/build/static/js/8.913337d0.chunk.js",
+    "static/js/9.fddd8bdc.chunk.js": "/ContractModeler/static/build/static/js/9.fddd8bdc.chunk.js",
+    "index.html": "/ContractModeler/static/build/index.html",
+    "precache-manifest.d17b84ae9d5f9f58d68a276de235f5d7.js": "/ContractModeler/static/build/precache-manifest.d17b84ae9d5f9f58d68a276de235f5d7.js",
+    "service-worker.js": "/ContractModeler/static/build/service-worker.js",
+    "static/js/4.5bb7534d.chunk.js.LICENSE.txt": "/ContractModeler/static/build/static/js/4.5bb7534d.chunk.js.LICENSE.txt",
+    "static/media/ApmModalImg.png": "/ContractModeler/static/build/static/media/ApmModalImg.482738b3.png",
+    "static/media/ApmModalImgCompresses.png": "/ContractModeler/static/build/static/media/ApmModalImgCompresses.91b507a2.png",
+    "static/media/BCBSN_Logo_print.jpg": "/ContractModeler/static/build/static/media/BCBSN_Logo_print.f0992a56.jpg",
+    "static/media/Error-500.66df1be8.svg": "/ContractModeler/static/build/static/media/Error-500.66df1be8.svg",
+    "static/media/Saving_Preloader.gif": "/ContractModeler/static/build/static/media/Saving_Preloader.51bf35a8.gif",
+    "static/media/style.scss": "/ContractModeler/static/build/static/media/log_in_image.19ed2e66.jpg",
+    "static/media/Updating_Preloader.gif": "/ContractModeler/static/build/static/media/Updating_Preloader.a3c47b37.gif",
+    "static/media/check.svg": "/ContractModeler/static/build/static/media/check.ccdbad73.svg",
+    "static/media/cross.svg": "/ContractModeler/static/build/static/media/cross.73884aa6.svg",
+    "static/media/loader.gif": "/ContractModeler/static/build/static/media/loader.6ac3ed9c.gif",
+    "static/media/logo.png": "/ContractModeler/static/build/static/media/logo.7855ab30.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11ab2b02.js",
+    "static/css/4.f1fbc315.chunk.css",
+    "static/js/4.5bb7534d.chunk.js",
+    "static/css/main.59469673.chunk.css",
+    "static/js/main.0c3d8f62.chunk.js"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+    "baseline_period": {"id": 1, "value": "Sao Paulo", "code": "SAO"},
+    "measure_category": {"id": 1, "value": "Brasil", "code": "BR"},
+    "quality_measures": {
+        "options": [],
+        "selecteds": [0]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "lob": [
+        {
+            "code": "COM",
+            "id":"COM"
+        },
+        {
+            "code": "MEDIC",
+            "id":"MEDIC"
+        }
+    ],
+    "group_type": [
+        {
+            "code": "INDI",
+            "id": "INDI"
+        }
+    ],
+    "funding_type": [
+        {
+            "code": "FULLY",
+            "id": "FULLY"
+        }
+    ],
+    "product_type": [
+        {
+            "code": "EPO",
+            "id": "EPO"
+        }
+    ],
+    "network": [
+        {
+            "code": "NAT",
+            "id" : "NAT"
+        }
+    ],
+    "geography_region": {
+        "all": false,
+        "checkeds": [],
+        "items": [
+          {
+            "state": {"code": "RIO", "id": "RIO", "value": "Rio de Janeiro"},
+            "country": {"id": 1, "value": "Brasil", "code": "EUA"},
+            "zip_code" : {"id": 1, "value": "12927-049", "code": "ZIP1"}
+          }
+        ]
+      }
+}

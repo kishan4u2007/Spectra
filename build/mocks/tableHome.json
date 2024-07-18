@@ -1,0 +1,192 @@
+{
+    "totalRecords": 1000,
+    "contractsList":[
+        {
+            "Status": "Final",
+            "createdByDt": "2020-10-07",
+            "lastSavedByDt": "2020-10-07",
+            "Contract ID": "711",
+            "Contract Name": "Visibiitly",
+            "Contract Group": "@testgroup1",
+            "Client Type": "ACO",
+            "Contract Template": "None",
+            "Contract Type": "",
+            "Date Created": "Abu Khan July 21, 2020",
+            "Created By": "Abu Khan",
+            "Date Modified": "2020-10-07 17:29:07",
+            "Last Saved By": "contractlmodler April 22, 2020",
+            "Visibility": "Private"
+        },
+        {
+            "Status": "Draft",
+            "createdByDt": "2020-10-07",
+            "lastSavedByDt": "2020-10-07",
+            "Contract ID": "711",
+            "Contract Name": "Visibiitly",
+            "Contract Group": "@testgroup1",
+            "Client Type": "ACO",
+            "Contract Template": "None",
+            "Contract Type": "",
+            "Date Created": "July 21, 2020",
+            "Created By": "Contract Modoler",
+            "Date Modified": "2020-10-07 17:29:07",
+            "Last Saved By": "July 21, 2020",
+            "Visibility": "Public"
+        },
+        {
+            "Status": "Final",
+            "createdByDt": "2020-10-07",
+            "lastSavedByDt": "2020-10-07",
+            "Contract ID": "711",
+            "Contract Name": "Visibiitly",
+            "Contract Group": "@testgroup1",
+            "Client Type": "ACO",
+            "Contract Template": "None",
+            "Contract Type": "",
+            "Date Created": "2020-10-07 15:17:49",
+            "Created By": "",
+            "Date Modified": "2020-10-07 17:29:07",
+            "Last Saved By": "",
+            "Visibility": "Private"
+        },
+        {
+            "Status": "Draft",
+            "createdByDt": "2020-10-07",
+            "lastSavedByDt": "2020-10-07",
+            "Contract ID": "711",
+            "Contract Name": "Visibiitly",
+            "Contract Group": "@testgroup1",
+            "Client Type": "ACO",
+            "Contract Template": "None",
+            "Contract Type": "",
+            "Date Created": "July 21, 2020",
+            "Created By": "Contract Modoler",
+            "Date Modified": "2020-10-07 17:29:07",
+            "Last Saved By": "July 21, 2020",
+            "Visibility": "Public"
+        },
+        {
+            "Status": "FINALIZED",
+            "createdByDt": "2020-10-07",
+            "lastSavedByDt": "2020-10-07",
+            "Contract ID": "711",
+            "Contract Name": "Visibiitly",
+            "Contract Group": "@testgroup1",
+            "Client Type": "ACO",
+            "Contract Template": "None",
+            "Contract Type": "",
+            "Date Created": "July 21, 2020",
+            "Created By": "Contract Modoler",
+            "Date Modified": "2020-10-07 17:29:07",
+            "Last Saved By": "July 21, 2020",
+            "Visibility": "Public"
+        },
+        {
+            "Status": "DRAFT",
+            "createdByDt": "2020-10-07",
+            "lastSavedByDt": "2020-10-07",
+            "Contract ID": "711",
+            "Contract Name": "Visibiitly",
+            "Contract Group": "@testgroup1",
+            "Client Type": "ACO",
+            "Contract Template": "None",
+            "Contract Type": "",
+            "Date Created": "July 21, 2020",
+            "Created By": "Contract Modoler",
+            "Date Modified": "2020-10-07 17:29:07",
+            "Last Saved By": "July 21, 2020",
+            "Visibility": "Public"
+        },
+        {
+            "Status": "Active",
+            "Contract ID": 7,
+            "Contract Name": "Kishan",
+            "Contract Group": "Jhoyti",
+            "Client Type": "test",
+            "Contract Template": "test",
+            "Contract Type": "test"
+        },
+    
+        {
+            "Status": "Active",
+            "Contract ID": 8,
+            "Contract Name": "new",
+            "Contract Group": "Manshi",
+            "Client Type": "test",
+            "Contract Template": "test",
+            "Contract Type": "test"
+        },
+        {
+            "Status": "Active",
+            "Contract ID": 9,
+            "Contract Name": "test",
+            "Contract Group": "Joy",
+            "Client Type": "test",
+            "Contract Template": "test",
+            "Contract Type": "test"
+        },
+        {
+            "Status": "Active",
+            "Contract ID": 10,
+            "Contract Name": "test",
+            "Contract Group": "Trish",
+            "Client Type": "test",
+            "Contract Template": "test",
+            "Contract Type": "test"
+    },
+    {
+        "Status": "Active",
+        "Contract ID": 11,
+        "Contract Name": "test",
+        "Contract Group": "test",
+        "Client Type": "test",
+        "Contract Template": "test",
+        "Contract Type": "test"
+    },
+    {
+        "Status": "Active",
+        "Contract ID": 1,
+        "Contract Name": "test",
+        "Contract Group": "test",
+        "Client Type": "test",
+        "Contract Template": "test",
+        "Contract Type": "test"
+    },
+    {
+        "Status": "Active",
+        "Contract ID": 1,
+        "Contract Name": "test",
+        "Contract Group": "test",
+        "Client Type": "test",
+        "Contract Template": "test",
+        "Contract Type": "test"
+    },
+    {
+        "Status": "Active",
+        "Contract ID": 1,
+        "Contract Name": "test",
+        "Contract Group": "test",
+        "Client Type": "test",
+        "Contract Template": "test",
+        "Contract Type": "test"
+    },
+    {
+        "Status": "Active",
+        "Contract ID": 1,
+        "Contract Name": "test",
+        "Contract Group": "test",
+        "Client Type": "test",
+        "Contract Template": "test",
+        "Contract Type": "test"
+    },
+    {
+        "Status": "Active",
+        "Contract ID": 1,
+        "Contract Name": "test",
+        "Contract Group": "test",
+        "Client Type": "test",
+        "Contract Template": "test",
+        "Contract Type": "test"
+    }
+]
+}

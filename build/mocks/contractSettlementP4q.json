@@ -1,0 +1,466 @@
+{
+  "gatewayMeasuresList": {
+    "data": [
+      {
+        "categoryCode": "domain1",
+        "categoryValue": "Domain 1",
+        "commonCode": "M1",
+        "measureId": "AAP_2019",
+        "alternativeDisplayName": "Measure 1",
+        "group": "HEDIS",
+        "benchmarkCategoryCode": "Florida (FL)",
+        "benchmarkDefinitionCode": "50p",
+        "targetCompliance": 78.65,
+        "numerator": 800,
+        "denominator": 1000,
+        "actualCompliance": 80,
+        "hitsNeededToAchieveTarget": 787,
+        "hitsAchieved": 800,
+        "additionalHitsNeeded": 0,
+        "status": "Passed",
+        "booleanOperator": "AND"
+      }
+    ],
+    "summary": {
+      "header": {
+        "compliantWhen": "Meets or Exceeds Benchmark",
+        "booleanOperator": "AND"
+      },
+      "footer": {
+        "status": "Failed"
+      }
+    }
+  },
+  "incentiveMeasuresList": {
+    "HEDIS": {
+      "numerator": {
+        "data": [
+          {
+            "categoryCode": "domain3",
+            "categoryValue": "Domain 1",
+            "commonCode": "M1",
+            "measureId": "AAP_2019",
+            "alternativeDisplayName": "Measure 1",
+            "benchmarkCategoryCode": "Florida (FL)",
+            "qualityThresholds": [
+              {
+                "requiredNumerator": 787,
+                "incentiveAmount": 2,
+                "targetCompliance": 78.65
+              },
+              {
+                "requiredNumerator": 771,
+                "incentiveAmount": 6,
+                "targetCompliance": 78.65
+              },
+              {
+                "requiredNumerator": 851,
+                "incentiveAmount": 10,
+                "targetCompliance": 78.65
+              }
+            ],
+
+            "payoutBasis": "EXCESS",
+            "numerator": 800,
+            "denominator": {
+              "appliedDenominator": 1000,
+              "minDenominator": 1100
+            },
+            "actualCompliance": 80,
+            "hitsAchieved": {
+              "thresholdDisplayName": "Threshold 1",
+              "hitsAchieved": 800
+            },
+            "additionalHitsNeeded": {
+              "thresholdDisplayName": "At Max. Threshold",
+              "hitsNeeded": 0
+            },
+            "maxEarnableIncentive": 1000,
+            "earnedIncentive": 288,
+            "unearnedIncentive": 1000
+          },
+          {
+            "categoryCode": "domain3",
+            "categoryValue": "Domain 1",
+            "commonCode": "M1",
+            "measureId": "AAP_2019",
+            "alternativeDisplayName": "Measure 1",
+            "benchmarkCategoryCode": "Florida (FL)",
+            "qualityThresholds": [
+              {
+                "requiredNumerator": 787,
+                "incentiveAmount": 2,
+                "targetCompliance": 78.65
+              },
+              {
+                "requiredNumerator": 771,
+                "incentiveAmount": 6,
+                "targetCompliance": 78.65
+              },
+              {
+                "requiredNumerator": 851,
+                "incentiveAmount": 10,
+                "targetCompliance": 78.65
+              }
+            ],
+
+            "payoutBasis": "EXCESS",
+            "numerator": 800,
+            "denominator": {
+              "appliedDenominator": 1000,
+              "minDenominator": 1100
+            },
+            "actualCompliance": 80,
+            "hitsAchieved": {
+              "thresholdDisplayName": "Threshold 1",
+              "hitsAchieved": 800
+            },
+            "additionalHitsNeeded": {
+              "thresholdDisplayName": "At Max. Threshold",
+              "hitsNeeded": 0
+            },
+            "maxEarnableIncentive": 1000,
+            "earnedIncentive": 288,
+            "unearnedIncentive": 1000
+          },
+          {
+            "categoryCode": "domain3",
+            "categoryValue": "Domain 1",
+            "commonCode": "M1",
+            "measureId": "AAP_2019",
+            "alternativeDisplayName": "Measure 1",
+            "benchmarkCategoryCode": "Florida (FL)",
+            "qualityThresholds": [
+              {
+                "requiredNumerator": 787,
+                "incentiveAmount": 2,
+                "targetCompliance": 78.65
+              },
+              {
+                "requiredNumerator": 771,
+                "incentiveAmount": 6,
+                "targetCompliance": 78.65
+              },
+              {
+                "requiredNumerator": 851,
+                "incentiveAmount": 10,
+                "targetCompliance": 78.65
+              }
+            ],
+
+            "payoutBasis": "EXCESS",
+            "numerator": 800,
+            "denominator": {
+              "appliedDenominator": 1000,
+              "minDenominator": 1100
+            },
+            "actualCompliance": 80,
+            "hitsAchieved": {
+              "thresholdDisplayName": "Threshold 1",
+              "hitsAchieved": 800
+            },
+            "additionalHitsNeeded": {
+              "thresholdDisplayName": "At Max. Threshold",
+              "hitsNeeded": 0
+            },
+            "maxEarnableIncentive": 1000,
+            "earnedIncentive": 288,
+            "unearnedIncentive": 1000
+          }
+        ],
+        "summary": {
+          "header": {
+            "compliantWhen": "Meets or Exceeds Benchmark",
+            "memberMonths": 1500
+          },
+          "footer": {
+            "maxEarnableIncentive": 4000,
+            "earnedIncentive": 1200,
+            "unearnedIncentive": {
+              "amount": 1000,
+              "percentage": 72.4
+            }
+          }
+        }
+      },
+      "denominator": {
+        "data": [
+          {
+            "categoryCode": "domain3",
+            "categoryValue": "Domain 1",
+            "commonCode": "M1",
+            "measureId": "AAP_2019",
+            "alternativeDisplayName": "Measure 1",
+
+            "benchmarkCategoryCode": "Florida (FL)",
+            "qualityThresholds": [
+              {
+                "requiredNumerator": 787,
+                "incentiveAmount": 2,
+                "targetCompliance": 78.65
+              },
+              {
+                "requiredNumerator": 771,
+                "incentiveAmount": 6,
+                "targetCompliance": 78.65
+              },
+              {
+                "requiredNumerator": 851,
+                "incentiveAmount": 10,
+                "targetCompliance": 78.65
+              }
+            ],
+
+            "payoutBasis": "EXCESS",
+            "numerator": 800,
+            "denominator": {
+              "appliedDenominator": 1000,
+              "minDenominator": 1100
+            },
+            "actualCompliance": 80,
+            "hitsAchieved": {
+              "thresholdDisplayName": "Threshold 1",
+              "hitsAchieved": 800
+            },
+            "additionalHitsNeeded": {
+              "thresholdDisplayName": "At Max. Threshold",
+              "hitsNeeded": 0
+            },
+            "maxEarnableIncentive": 1000,
+            "earnedIncentive": 288,
+            "unearnedIncentive": 1000
+          }
+        ],
+        "summary": {
+          "header": {
+            "compliantWhen": "Exceeds Benchmark",
+            "memberMonths": 1500
+          },
+          "footer": {
+            "maxEarnableIncentive": 4000,
+            "earnedIncentive": 1200,
+            "unearnedIncentive": {
+              "amount": 1000,
+              "percentage": 72.4
+            }
+          }
+        }
+      }
+    },
+    "PPE": {
+      "numerator": {
+        "data": [
+          {
+            "categoryCode": "domain3",
+            "categoryValue": "Domain 1",
+            "commonCode": "M1",
+            "measureId": "AAP_2019",
+            "alternativeDisplayName": "Measure 1",
+            "benchmarkCategoryCode": "Florida (FL)",
+            "qualityThresholds": [
+              {
+                "requiredNumerator": 787,
+                "incentiveAmount": 2,
+                "targetCompliance": 78.65
+              },
+              {
+                "requiredNumerator": 771,
+                "incentiveAmount": 6,
+                "targetCompliance": 78.65
+              },
+              {
+                "requiredNumerator": 851,
+                "incentiveAmount": 10,
+                "targetCompliance": 78.65
+              }
+            ],
+
+            "payoutBasis": "EXCESS",
+            "numerator": 800,
+            "denominator": {
+              "appliedDenominator": 1000,
+              "minDenominator": 1100
+            },
+            "actualCompliance": 80,
+            "hitsAchieved": {
+              "thresholdDisplayName": "Threshold 1",
+              "hitsAchieved": 800
+            },
+            "additionalHitsNeeded": {
+              "thresholdDisplayName": "At Max. Threshold",
+              "hitsNeeded": 0
+            },
+            "maxEarnableIncentive": 1000,
+            "earnedIncentive": 288,
+            "unearnedIncentive": 1000
+          },
+          {
+            "categoryCode": "domain3",
+            "categoryValue": "Domain 1",
+            "commonCode": "M1",
+            "measureId": "AAP_2019",
+            "alternativeDisplayName": "Measure 1",
+            "benchmarkCategoryCode": "Florida (FL)",
+            "qualityThresholds": [
+              {
+                "requiredNumerator": 787,
+                "incentiveAmount": 2,
+                "targetCompliance": 78.65
+              },
+              {
+                "requiredNumerator": 771,
+                "incentiveAmount": 6,
+                "targetCompliance": 78.65
+              },
+              {
+                "requiredNumerator": 851,
+                "incentiveAmount": 10,
+                "targetCompliance": 78.65
+              }
+            ],
+
+            "payoutBasis": "EXCESS",
+            "numerator": 800,
+            "denominator": {
+              "appliedDenominator": 1000,
+              "minDenominator": 1100
+            },
+            "actualCompliance": 80,
+            "hitsAchieved": {
+              "thresholdDisplayName": "Threshold 1",
+              "hitsAchieved": 800
+            },
+            "additionalHitsNeeded": {
+              "thresholdDisplayName": "At Max. Threshold",
+              "hitsNeeded": 0
+            },
+            "maxEarnableIncentive": 1000,
+            "earnedIncentive": 288,
+            "unearnedIncentive": 1000
+          },
+          {
+            "categoryCode": "domain3",
+            "categoryValue": "Domain 1",
+            "commonCode": "M1",
+            "measureId": "AAP_2019",
+            "alternativeDisplayName": "Measure 1",
+            "benchmarkCategoryCode": "Florida (FL)",
+            "qualityThresholds": [
+              {
+                "requiredNumerator": 787,
+                "incentiveAmount": 2,
+                "targetCompliance": 78.65
+              },
+              {
+                "requiredNumerator": 771,
+                "incentiveAmount": 6,
+                "targetCompliance": 78.65
+              },
+              {
+                "requiredNumerator": 851,
+                "incentiveAmount": 10,
+                "targetCompliance": 78.65
+              }
+            ],
+
+            "payoutBasis": "EXCESS",
+            "numerator": 800,
+            "denominator": {
+              "appliedDenominator": 1000,
+              "minDenominator": 1100
+            },
+            "actualCompliance": 80,
+            "hitsAchieved": {
+              "thresholdDisplayName": "Threshold 1",
+              "hitsAchieved": 800
+            },
+            "additionalHitsNeeded": {
+              "thresholdDisplayName": "At Max. Threshold",
+              "hitsNeeded": 0
+            },
+            "maxEarnableIncentive": 1000,
+            "earnedIncentive": 288,
+            "unearnedIncentive": 1000
+          }
+        ],
+        "summary": {
+          "header": {
+            "compliantWhen": "Meets or Exceeds Benchmark",
+            "memberMonths": 1500
+          },
+          "footer": {
+            "maxEarnableIncentive": 4000,
+            "earnedIncentive": 1200,
+            "unearnedIncentive": {
+              "amount": 1000,
+              "percentage": 72.4
+            }
+          }
+        }
+      },
+      "denominator": {
+        "data": [
+          {
+            "categoryCode": "domain3",
+            "categoryValue": "Domain 1",
+            "commonCode": "M1",
+            "measureId": "AAP_2019",
+            "alternativeDisplayName": "Measure 1",
+
+            "benchmarkCategoryCode": "Florida (FL)",
+            "qualityThresholds": [
+              {
+                "requiredNumerator": 787,
+                "incentiveAmount": 2,
+                "targetCompliance": 78.65
+              },
+              {
+                "requiredNumerator": 771,
+                "incentiveAmount": 6,
+                "targetCompliance": 78.65
+              },
+              {
+                "requiredNumerator": 851,
+                "incentiveAmount": 10,
+                "targetCompliance": 78.65
+              }
+            ],
+
+            "payoutBasis": "EXCESS",
+            "numerator": 800,
+            "denominator": {
+              "appliedDenominator": 1000,
+              "minDenominator": 1100
+            },
+            "actualCompliance": 80,
+            "hitsAchieved": {
+              "thresholdDisplayName": "Threshold 1",
+              "hitsAchieved": 800
+            },
+            "additionalHitsNeeded": {
+              "thresholdDisplayName": "At Max. Threshold",
+              "hitsNeeded": 0
+            },
+            "maxEarnableIncentive": 1000,
+            "earnedIncentive": 288,
+            "unearnedIncentive": 1000
+          }
+        ],
+        "summary": {
+          "header": {
+            "compliantWhen": "Meets or Exceeds Benchmark",
+            "memberMonths": 1500
+          },
+          "footer": {
+            "maxEarnableIncentive": 4000,
+            "earnedIncentive": 1200,
+            "unearnedIncentive": {
+              "amount": 1000,
+              "percentage": 72.4
+            }
+          }
+        }
+      }
+    }
+  }
+}

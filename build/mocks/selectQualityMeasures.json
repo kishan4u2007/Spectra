@@ -1,0 +1,65 @@
+{
+   
+   "quality_measures":{
+      "options":[
+         {
+            "id":0,
+            "name":"HEDIS - Medication Menagement for People with Asthma",
+            "category":"HEDIS",
+            "baseline_period"	: "2018",
+            "numerator"	: "1,762",
+            "denominator": "2,320",
+            "rate" : 79.5,
+            "selected":false
+         },
+         {
+            "id":1,
+            "name":"HEDIS - Use of Spirometry Testing in the Assessment and Diagnosis of COPD",
+            "category":"HEDIS",
+            "baseline_period"	: "2018",
+            "numerator"	: "1,762",
+            "denominator": "2,320",
+            "rate" : 79.5,
+            "selected":false
+         },
+         {
+            "id":2,
+            "name":"HEDIS - Controlling Blood high Preassure",
+            "category":"HEDIS",
+            "baseline_period"	: "2018",
+            "numerator"	: "1,762",
+            "denominator": "2,320",
+            "rate" : 79.5,
+            "selected":false
+         },
+         {
+            "id":3,
+            "name":"HEDIS - Follow Up After Hospitalization for Mental illness",
+            "selected":false
+         },
+         {
+            "id":4,
+            "name":"HEDIS - Adults Access to Preventive/Ambulatory Health Services",
+            "selected":false
+         },
+         {
+            "id":5,
+            "name":"HEDIS - Children and Adolescents Access to Primary Care Practitioners",
+            "selected":false
+         },
+         {
+            "id":6,
+            "name":"HEDIS - Adherence to Antipsychotic Medications for Individuals with Schizophrenia",
+            "selected":false
+         },
+         {
+            "id":7,
+            "name":"HEDIS - Diabetes Screening for People with Schizophrenia or Bipolar Disorder Who are using Antipsychotic Medications",
+            "selected":false
+         }
+      ],
+      "selecteds":[
+
+      ]
+   }
+}

@@ -1,0 +1,21 @@
+{
+    "lob_options": [
+        {
+            "value": "Commercial",
+            "code": "COM"
+        },
+        {
+            "value": "Medicare Advantage",
+            "code": "MED-ADV"
+            
+        },
+        {
+            "value": "Medicare",
+            "code": "MED"
+        },
+        {
+            "value": "Medicaid",
+            "code": "MEDIC"
+        }
+    ]
+}

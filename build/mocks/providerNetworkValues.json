@@ -1,0 +1,52 @@
+{
+    "providers_network_names": [
+        {
+            "value": "Provider Network Name",
+            "id": "provider_network_name",
+            "code": "provider_network_name",
+            "childs": [
+                {
+                    "status": "Active",
+                    "practice_tin": "",
+                    "patient_name": "",
+                    "practice_speciality_code": "",
+                    "edit": true,
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "value": "Provider Network Name2",
+            "id": "provider_network_name2",
+            "code": "provider_network_name2",
+            "childs": [
+                {
+                    "status": "Active",
+                    "practice_tin": "",
+                    "patient_name": "",
+                    "practice_speciality_code": "",
+                    "edit": true,
+                    "checked": false
+                }
+            ]
+        }
+    ],
+    "provider_network_option": [
+        {
+           "id": 1,
+           "value": "10-23123"
+        },
+        {
+           "id": 2,
+           "value": "11-13123"
+        },
+        {
+           "id": 3,
+           "value": "12-13123"
+        },
+        {
+           "id": 4,
+           "value": "13-13123"
+        }
+    ]
+}

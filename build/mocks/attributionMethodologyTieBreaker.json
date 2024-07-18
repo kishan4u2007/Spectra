@@ -1,0 +1,94 @@
+{
+   "attribution_tie_break1_options": [
+      {
+         "id": 1,
+         "value": "of non-E&M Professional Services"
+      },
+      {
+         "id": 2,
+         "value": "of unique service dates"
+      },
+      {
+         "id": 3,
+         "value": "Most Dollars Spent"
+      },
+      {
+         "id": 4,
+         "value": "Most Recent Service"
+      },
+      {
+         "id": 5,
+         "value": "Alphabetical"
+      },
+      {
+         "id": 6,
+         "value": "Random"
+      }
+   ],
+   "attribution_tie_break2_options": [
+      {
+         "id": 1,
+         "value": "of non-E&M Professional Services"
+      },
+      {
+         "id": 2,
+         "value": "of unique service dates"
+      },
+      {
+         "id": 3,
+         "value": "Most Dollars Spent"
+      },
+      {
+         "id": 4,
+         "value": "Most Recent Service"
+      },
+      {
+         "id": 5,
+         "value": "Alphabetical"
+      }
+   ],
+   "attribution_tie_break3_options": [
+      {
+         "id": 1,
+         "value": "of non-E&M Professional Services"
+      },
+      {
+         "id": 2,
+         "value": "of unique service dates"
+      },
+      {
+         "id": 3,
+         "value": "Most Dollars Spent"
+      },
+      {
+         "id": 4,
+         "value": "Most Recent Service"
+      },
+      {
+         "id": 5,
+         "value": "Alphabetical"
+      }
+   ],
+   "attribution_tie_break4_options": [
+      {
+         "id": 1,
+         "value": "of non-E&M Professional Services"
+      },
+      {
+         "id": 2,
+         "value": "of unique service dates"
+      },
+      {
+         "id": 3,
+         "value": "Most Dollars Spent"
+      },
+      {
+         "id": 4,
+         "value": "Most Recent Service"
+      },
+      {
+         "id": 5,
+         "value": "Alphabetical"
+      }
+   ]
+}

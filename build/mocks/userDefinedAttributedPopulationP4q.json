@@ -1,0 +1,30 @@
+{
+  "header": {
+    "voluntary": 0,
+    "pluralityAlgorithm2": 0,
+    "pluralityAlgorithm1": 1
+  },
+  "dataRows": [
+    {
+      "metaData": "memberCount",
+      "total": 40000,
+      "pluralityAlgorithm2": null,
+      "pluralityAlgorithm1": 40000,
+      "voluntary": null
+    },
+    {
+      "metaData": "memberMonths",
+      "total": 85637,
+      "pluralityAlgorithm2": null,
+      "pluralityAlgorithm1": 85637,
+      "voluntary": null
+    },
+    {
+      "metaData": "memberMonthsPercent",
+      "total": 100,
+      "pluralityAlgorithm2": null,
+      "pluralityAlgorithm1": 100,
+      "voluntary": null
+    }
+  ]
+}

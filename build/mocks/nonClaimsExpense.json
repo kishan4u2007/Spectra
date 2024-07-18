@@ -1,0 +1,132 @@
+{
+    "non_claims_expense_data": [
+        {
+            "items" : [
+                {
+                    "sno":"1",
+                    "expenseDescription":"Admistrative Fees",
+                    "expenseType":{
+                        "code": "Fixed Amount",
+                        "id": "Fixed Amount",
+                        "value": "Fixed Amount"
+                    },
+                    "effectiveDate":"1609087678",
+                    "terminationDate":"1609087678",
+                    "amount":"$100,000",                                                            
+                    "pmpm":"--"            
+                },
+                {
+                    "sno":"2",
+                    "expenseDescription":"Adversting",
+                    "expenseType":{
+                        "code": "PMPM",
+                        "id": "PMPM",
+                        "value": "PMPM"
+                    },
+                    "effectiveDate":"1609087678",
+                    "terminationDate":"1609087678",
+                    "amount":"--",                                                            
+                    "pmpm":"$1.00"            
+                },
+                {
+                    "sno":"3",
+                    "expenseDescription":"Care Cordination Fee",
+                    "expenseType":{
+                        "code": "PMPM",
+                        "id": "PMPM",
+                        "value": "PMPM"
+                    },
+                    "effectiveDate":"1609087678",
+                    "terminationDate":"1609087678",
+                    "amount":"--",                                                            
+                    "pmpm":"$2.00"            
+                }
+            ],
+            "total":[
+                {
+                   "sub_total":"Total",
+                   "amount":"$272,447,703",
+                   "pmpm":"$272,447"
+                }
+             ]
+        }
+    ],
+    "non_claims_expense_manual": [
+        {
+            "items" : [ 
+                {
+                    "sno":"1",
+                    "expenseDescription":"Admistrative Fees",
+                    "expenseType":{
+                        "code": "PMPM",
+                        "id": "PMPM",
+                        "value": "PMPM"
+                    },
+                    "effectiveDate":"1609087678",
+                    "terminationDate":"1609087678",
+                    "amount":"--",                                                            
+                    "pmpm":"$100,000"            
+                }
+            ],
+            "total":[
+                {
+                   "sub_total":"Total",
+                   "amount":"$272,447,703",
+                   "pmpm":"$272,447"
+                }
+            ]
+        }
+    ],
+    "non_claims_expense_total": [
+        {
+            "items" : [
+                {
+                    "sno":"1",
+                    "expenseDescription":"Admistrative Fees",
+                    "expenseType":"Fixed Amount",
+                    "effectiveDate":"1609087678",
+                    "terminationDate":"1609087678",
+                    "amount":"$100,000",                                                            
+                    "pmpm":"--"            
+                },
+                {
+                    "sno":"2",
+                    "expenseDescription":"Adversting",
+                    "expenseType":"PMPM",
+                    "effectiveDate":"1609087678",
+                    "terminationDate":"1609087678",
+                    "amount":"--",                                                            
+                    "pmpm":"$1.00"            
+                },
+                {
+                    "sno":"3",
+                    "expenseDescription":"Care Cordination Fee",
+                    "expenseType":"PMPM",
+                    "effectiveDate":"1609087678",
+                    "terminationDate":"1609087678",
+                    "amount":"--",                                                            
+                    "pmpm":"$2.00"            
+                }
+            ],
+            "total":[
+                {
+                   "sub_total":"Total",
+                   "amount":"$272,447,703",
+                   "pmpm":"$272,447"
+                }
+             ]
+        }
+    ],
+    "expense_type": [
+        {
+            "code": "PMPM",
+            "id": "PMPM",
+            "value": "PMPM"
+        },
+        {
+            "code": "Fixed Amount",
+            "id": "Fixed Amount",
+            "value": "Fixed Amount"
+        }
+    ]
+}

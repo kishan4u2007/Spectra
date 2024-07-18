@@ -1,0 +1,98 @@
+{
+    "contract_type_options": [
+        {
+            "id": "shared",
+            "value": "Shared Savings",
+            "code": "shared"
+        },
+        {
+            "id": 2,
+            "value": "1"
+        },
+        {
+            "id": 3,
+            "value": "2"
+        },
+        {
+            "id": 4,
+            "value": "3"
+        }
+    ],
+    "contract_tier_options": [
+        {
+            "id": "tier1",
+            "value": "Tier 1",
+            "code": "tier1"
+        },
+        {
+            "id": "tier2",
+            "value": "Tier 2",
+            "code": "tier2"
+        },
+        {
+            "id": "tier3",
+            "value": "Tier 3",
+            "code": "tier3"
+        },
+        {
+            "id": "tier4",
+            "value": "Tier 4",
+            "code": "tier4"
+        },
+        {
+            "id": 4,
+            "value": "None"
+        }
+    ],
+    "financial_budget_type_options": [
+        {
+            "id": 1,
+            "value": "Market Performance",
+            "code": "marketP"
+        },
+        {
+            "id": 2,
+            "value": "1"
+        },
+        {
+            "id": 3,
+            "value": "2"
+        },
+        {
+            "id": 4,
+            "value": "3"
+        }
+    ],
+    "covered_services_options": [
+        {
+            "id": "all",
+            "value": "All",
+            "code": "all"
+        },
+        {
+            "id": 2,
+            "value": "Medical"
+        },
+        {
+            "id": 3,
+            "value": "Drug"
+        }
+    ],
+    "risk_type_options": [
+        {
+            "id": 1,
+            "value": "upside"
+        },
+        {
+            "id": "downside",
+            "value": "downside",
+            "code": "downside"
+        }
+    ],
+    "qualtiy_point": "1.5%",
+    "risk_type": {"id": "downside", "code": "downside", "value": "downside"},
+    "contract_type": {"id": "shared", "code": "shared", "value": "Shared Savings"},
+    "financial_budget_type": {"id": "marketP", "code": "marketP",  "value": "Market Performance"},
+    "covered_services" :{"id": "all", "code": "all",  "value": "All"}
+
+}

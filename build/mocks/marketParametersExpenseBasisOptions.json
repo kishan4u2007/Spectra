@@ -1,0 +1,12 @@
+{ 
+    "expense_basis_options": [
+        {
+            "value": "Allow Amount",
+            "code": "ALM"
+        },
+        {
+            "value": "Paid Amount",
+            "code": "PAID"
+        }
+    ]
+}

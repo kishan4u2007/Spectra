@@ -1,0 +1,224 @@
+{
+    "1": {
+        "expanded": true,
+        "options": [
+            {
+                "next": "/new-contract/financial-benchmark",
+                "current": "/new-contract/market-parameters",
+                "disbled": false,
+                "finished": false,
+                "check": false,
+                "title": "Market Parameters",
+                "previus": "/new-contract/create-new"
+            },
+            {
+                "next": "/new-contract/provider-network-budget",
+                "current": "/new-contract/financial-benchmark",
+                "disbled": false,
+                "finished": false,
+                "check": false,
+                "title": "Financial Benchmark",
+                "previus": "/new-contract/market-parameters"
+            }
+        ],
+        "check": true,
+        "title": "Market Selection",
+        "errors": []
+    },
+    "2": {
+        "expanded": false,
+        "options": [
+            {
+                "next": "/new-contract/attribution-methodology-budget",
+                "current": "/new-contract/provider-network-budget",
+                "disbled": false,
+                "finished": false,
+                "check": false,
+                "title": "Provider Network",
+                "previus": "/new-contract/financial-benchmark"
+            },
+            {
+                "next": "/new-contract/attributed-population-budget",
+                "current": "/new-contract/attribution-methodology-budget",
+                "disbled": false,
+                "finished": false,
+                "check": false,
+                "title": "Attribution Methodology",
+                "previus": "/new-contract/provider-network-budget"
+            },
+            {
+                "next": "/new-contract/define-contract-parameters",
+                "current": "/new-contract/attributed-population-budget",
+                "disbled": false,
+                "finished": false,
+                "check": false,
+                "title": "Attributed Population",
+                "previus": "/new-contract/attribution-methodology-budget"
+            }
+        ],
+        "check": true,
+        "title": "Attribution",
+        "errors": []
+    },
+    "3": {
+        "expanded": false,
+        "options": [
+            {
+                "next": "/new-contract/budget",
+                "current": "/new-contract/define-contract-parameters",
+                "disbled": false,
+                "finished": false,
+                "check": false,
+                "title": "Define Contract Parameters",
+                "previus": "/new-contract/attributed-population-budget"
+            },
+           
+        ],
+        "check": true,
+        "title": "Contract Terms",
+        "errors": []
+    },
+    "4": {
+        "expanded": false,
+        "options": [
+            {
+                "next": "/new-contract/provider-network",
+                "current": "/new-contract/budget",
+                "disbled": false,
+                "finished": false,
+                "check": false,
+                "title": "Set Budget / Target",
+                "previus": "/new-contract/define-shared-savings-loss"
+            }
+        ],
+        "check": true,
+        "title": "Budget Setting",
+        "errors": []
+    },
+  
+    "5": {
+        "expanded": false,
+        "options": [
+            {
+                "next": "/new-contract/attribution-methodology",
+                "current": "/new-contract/provider-network",
+                "disbled": false,
+                "finished": false,
+                "check": false,
+                "title": "Provider Network",
+                "previus": "/new-contract/budget"
+            },
+            {
+                "next": "/new-contract/attributed-population",
+                "current": "/new-contract/attribution-methodology",
+                "disbled": false,
+                "finished": false,
+                "check": false,
+                "title": "Attribution Methodology",
+                "previus": "/new-contract/provider-network"
+            },
+            {
+                "next": "/new-contract/select-quality-measures",
+                "current": "/new-contract/attributed-population",
+                "disbled": false,
+                "finished": false,
+                "check": false,
+                "title": "Attributed Population",
+                "previus": "/new-contract/attribution-methodology"
+            }
+            
+        ],
+        "check": true,
+        "title": "Performance Attribution",
+        "errors": []
+    },
+    "6": {
+        "expanded": false,
+        "options": [
+            {
+                "next": "/new-contract/define-measure-weights",
+                "current": "/new-contract/select-quality-measures",
+                "disbled": false,
+                "finished": false,
+                "check": false,
+                "title": "Select Quality Measures",
+                "previus": "/new-contract/attributed-population-budget"
+            },
+            {
+                "next": "/new-contract/quality-domain-sumary",
+                "current": "/new-contract/define-measure-weights",
+                "disbled": false,
+                "finished": false,
+                "check": false,
+                "title": "Measure Weights and Domains",
+                "previus": "/new-contract/select-quality-measures"
+            },
+            {
+                "next": "/new-contract/quality-score",
+                "current": "/new-contract/quality-domain-sumary",
+                "disbled": false,
+                "finished": false,
+                "check": false,
+                "title": "Quality Domain Summary",
+                "previus": "/new-contract/define-measure-weights"
+            },
+            {
+                "next": "/new-contract/define-shared-savings-loss",
+                "current": "/new-contract/quality-score",
+                "disbled": false,
+                "finished": false,
+                "check": false,
+                "title": "Quality Score",
+                "previus": "/new-contract/quality-domain-sumary"
+            },
+             {
+                "next": "/new-contract/contract-settlement",
+                "current": "/new-contract/define-shared-savings-loss",
+                "disbled": false,
+                "finished": false,
+                "check": false,
+                "title": "Define Shared Savings/Loss",
+                "previus": "/new-contract/quality-score"
+            }
+        ],
+        "check": true,
+        "title": "Quality",
+        "errors": []
+    },
+    
+    "7": {
+        "expanded": false,
+        "options": [
+           
+            {
+                "next": "/new-contract/summary",
+                "current": "/new-contract/contract-settlement",
+                "disbled": false,
+                "finished": false,
+                "check": false,
+                "title": "Contract Settlement",
+                "previus": "/new-contract/attributed-population"
+            }
+        ],
+        "check": true,
+        "title": "Contract Settlement",
+        "errors": []
+    },
+    "8": {
+        "expanded": false,
+        "options": [
+            {
+                "next": "/new-contract/summary",
+                "current": "/new-contract/summary",
+                "disbled": false,
+                "finished": false,
+                "check": false,
+                "title": "Summary",
+                "previus": "/new-contract/contract-settlement"
+            }
+        ],
+        "check": true,
+        "title": "Summary",
+        "errors": []
+    }
+}

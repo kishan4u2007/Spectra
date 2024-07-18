@@ -1,0 +1,15 @@
+{
+    "client_type": {
+        "value": "ACO",
+        "code": "ACO"
+    },
+    "contract_group": {
+        "value": "test",
+        "code": "test"
+    },
+    "contract_name": "asdfasdf",
+    "notes" : "asdfasdf",
+    "expense_basis": {"value": "Allow Amount", "code": "ALLOW", "id": "ALLOW"},
+    "benchmark_period": {"value": "Jan 01, 2018- Dec 31, 2020"}
+
+}

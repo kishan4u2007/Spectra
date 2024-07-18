@@ -1,0 +1,71 @@
+{
+    "performance_adjusted": [
+        {
+            "description": "Gross Savings /Loss Amount PMPM*",
+            "value": "$758"
+        },
+        {
+            "description": "Shared Saving/Loss Percentage",
+            "value": "50%"
+        },
+        {
+            "description": "Gross Shared Savings /Loss Amount PMPM",
+            "value": "$8.00"
+        },
+        {
+            "description": "Quality Performance Adjustments",
+            "value": "75%"
+        },
+        {
+            "description": "Quality Adjusted Shared Savings/ Loss Amount PMPM*",
+            "value": "$6.00"
+        }
+    ],
+    "final_shared": [
+        {
+            "description": "Quality Adjusted Shared Saving/Loss Amount PMPM",
+            "value": "$6"
+        },
+        {
+            "description": "Projected Risk Adjusted Total Expense PMP for Provider Network",
+            "value": "$832"
+        },
+        {
+            "description": "Quality Adjusted Shared Saving/Loss Amount PMPM (% of Total Expense)",
+            "value": "0.72%"
+        },
+        {
+            "description": "Minimum Shared Savings (% of Total Expense)*",
+            "value": "$83.20"
+        },
+        {
+            "description": "Minimum Shared Savings Amount PMPM*",
+            "value": "5%"
+        },
+        {
+            "description": "Minimum Shared Savings (% of Total Expense)*",
+            "value": "$-41.60"
+        },
+        {
+            "description": "Minimum Shared Savings Amount PMPM*",
+            "value": "6% "
+        },
+        {
+            "description": "Minimum Shared Loss (% of Total Expense)*",
+            "value": "10%"
+        },
+        {
+            "description": "Minimum Shared Loss Amount PMPM*",
+            "value": "$-83.20 "
+        },
+        {
+            "description": "Final Shared Saving/Loss Amount PMPM*",
+            "value": "$6.00"
+        },
+        {
+            "description": "Final Shared Saving/Loss Amount*",
+            "value": "$884,000"
+        }
+        
+    ]
+}

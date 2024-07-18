@@ -1,0 +1,382 @@
+{
+    "plurality_basis1_options":[
+       {
+          "value":"Allowed Amount"
+       },
+       {
+          "value":"Service Count"
+       }
+    ],
+    "loopback_period1_start_date_month_options":[
+       {
+          "value":"January"
+       },
+       {
+          "value":"February"
+       },
+       {
+          "value":"March"
+       },
+       {
+          "value":"April"
+       },
+       {
+          "value":"May"
+       },
+       {
+          "value":"June"
+       },
+       {
+          "value":"July"
+       },
+       {
+          "value":"August"
+       },
+       {
+          "value":"September"
+       },
+       {
+          "value":"October"
+       },
+       {
+          "value":"November"
+       },
+       {
+          "value":"December"
+       }
+    ],
+    "loopback_period1_start_date_year_options":[
+       {
+          "value":"2020"
+       },
+       {
+          "value":"2021"
+       },
+       {
+          "value":"2022"
+       },
+       {
+          "value":"2023"
+       },
+       {
+          "value":"2024"
+       }
+    ],
+    "attribution1_tie_break1_options":[
+       {
+          "value":"of non-E&M Professional Services"
+       },
+       {
+          "value":"of unique service dates"
+       },
+       {
+          "value":"Most Dollars Spent"
+       },
+       {
+          "value":"Most Recent Service"
+       },
+       {
+          "value":"Alphabetical"
+       },
+       {
+          "value":"Random"
+       }
+    ],
+    "attribution1_tie_break2_options":[
+       {
+          "value":"of non-E&M Professional Services"
+       },
+       {
+          "value":"of unique service dates"
+       },
+       {
+          "value":"Most Dollars Spent"
+       },
+       {
+          "value":"Most Recent Service"
+       },
+       {
+          "value":"Alphabetical"
+       }
+    ],
+    "attribution1_tie_break3_options":[
+       {
+          "value":"of non-E&M Professional Services"
+       },
+       {
+          "value":"of unique service dates"
+       },
+       {
+          "value":"Most Dollars Spent"
+       },
+       {
+          "value":"Most Recent Service"
+       },
+       {
+          "value":"Alphabetical"
+       }
+    ],
+    "attribution1_tie_break4_options":[
+       {
+          "value":"of non-E&M Professional Services"
+       },
+       {
+          "value":"of unique service dates"
+       },
+       {
+          "value":"Most Dollars Spent"
+       },
+       {
+          "value":"Most Recent Service"
+       },
+       {
+          "value":"Alphabetical"
+       }
+    ],
+    "include_plurality_1":{
+       "bool":false,
+       "attributable_places":{
+          "options":[
+             {
+                "id":0,
+                "name":"Carrier Places",
+                "selected":false
+             },
+             {
+                "id":1,
+                "name":"Carrier Places",
+                "selected":false
+             },
+             {
+                "id":2,
+                "name":"Carrier Places",
+                "selected":false
+             },
+             {
+                "id":3,
+                "name":"Carrier Places",
+                "selected":false
+             },
+             {
+                "id":4,
+                "name":"Carrier Places",
+                "selected":false
+             },
+             {
+                "id":5,
+                "name":"Carrier Places",
+                "selected":false
+             },
+             {
+                "id":5,
+                "name":"Carrier Places"
+             }
+          ],
+          "selecteds":[
+ 
+          ]
+       },
+       "attributable_specialities":{
+          "options":[
+             {
+                "id":0,
+                "name":"Carrier Wide",
+                "selected":false
+             },
+             {
+                "id":1,
+                "name":"Carrier Wide",
+                "selected":false
+             },
+             {
+                "id":2,
+                "name":"Carrier Wide",
+                "selected":false
+             },
+             {
+                "id":3,
+                "name":"Carrier Wide",
+                "selected":false
+             },
+             {
+                "id":4,
+                "name":"Carrier Wide",
+                "selected":false
+             },
+             {
+                "id":5,
+                "name":"Carrier Wide",
+                "selected":false
+             },
+             {
+                "id":5,
+                "name":"Carrier Wide"
+             }
+          ],
+          "selecteds":[
+ 
+          ]
+       },
+       "attributable_services":{
+          "options":[
+             {
+                "id":0,
+                "name":"Carrier services"
+             },
+             {
+                "id":1,
+                "name":"Carrier services"
+             },
+             {
+                "id":2,
+                "name":"Carrier services"
+             },
+             {
+                "id":3,
+                "name":"Carrier services"
+             },
+             {
+                "id":4,
+                "name":"Carrier services"
+             },
+             {
+                "id":5,
+                "name":"Carrier services"
+             },
+             {
+                "id":5,
+                "name":"Carrier services"
+             }
+          ],
+          "selecteds":[
+ 
+          ]
+       },
+       "attributable_places_of_service":[
+ 
+       ]
+    },
+    "include_plurality_2":{
+       "bool":false,
+       "attributable_places":{
+          "options":[
+             {
+                "id":0,
+                "name":"Carrier Places",
+                "selected":false
+             },
+             {
+                "id":1,
+                "name":"Carrier Places",
+                "selected":false
+             },
+             {
+                "id":2,
+                "name":"Carrier Places",
+                "selected":false
+             },
+             {
+                "id":3,
+                "name":"Carrier Places",
+                "selected":false
+             },
+             {
+                "id":4,
+                "name":"Carrier Places",
+                "selected":false
+             },
+             {
+                "id":5,
+                "name":"Carrier Places",
+                "selected":false
+             },
+             {
+                "id":5,
+                "name":"Carrier Places"
+             }
+          ],
+          "selecteds":[
+ 
+          ]
+       },
+       "attributable_specialities":{
+          "options":[
+             {
+                "id":0,
+                "name":"Carrier Wide",
+                "selected":false
+             },
+             {
+                "id":1,
+                "name":"Carrier Wide",
+                "selected":false
+             },
+             {
+                "id":2,
+                "name":"Carrier Wide",
+                "selected":false
+             },
+             {
+                "id":3,
+                "name":"Carrier Wide",
+                "selected":false
+             },
+             {
+                "id":4,
+                "name":"Carrier Wide",
+                "selected":false
+             },
+             {
+                "id":5,
+                "name":"Carrier Wide",
+                "selected":false
+             },
+             {
+                "id":5,
+                "name":"Carrier Wide"
+             }
+          ],
+          "selecteds":[
+ 
+          ]
+       },
+       "attributable_services":{
+          "options":[
+             {
+                "id":0,
+                "name":"Carrier services"
+             },
+             {
+                "id":1,
+                "name":"Carrier services"
+             },
+             {
+                "id":2,
+                "name":"Carrier services"
+             },
+             {
+                "id":3,
+                "name":"Carrier services"
+             },
+             {
+                "id":4,
+                "name":"Carrier services"
+             },
+             {
+                "id":5,
+                "name":"Carrier services"
+             },
+             {
+                "id":5,
+                "name":"Carrier services"
+             }
+          ],
+          "selecteds":[
+ 
+          ]
+       },
+       "attributable_places_of_service":[
+ 
+       ]
+    }
+ }

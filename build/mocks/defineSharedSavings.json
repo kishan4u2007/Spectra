@@ -1,0 +1,12 @@
+{
+    "financial_performance_option": [
+        {
+            "Operator": ["1", "2", "3", "4"]
+        }
+    ],
+    "quality_performance_option": [
+        {
+            "Operator": ["1", "2", "3", "4"]
+        }
+    ]
+}

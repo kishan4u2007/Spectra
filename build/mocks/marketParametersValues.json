@@ -1,0 +1,72 @@
+{
+    "lob_options": [
+        {
+            "value": "Commercial"
+        },
+        {
+            "value": "Medicare Advantage"
+        },
+        {
+            "value": "Medicare"
+        },
+        {
+            "value": "Medicaid"
+        }
+    ],
+    "group_type_options": [
+        {
+            "value": "Individual"
+        },
+        {
+            "value": "valueJumbo"
+        },
+        {
+            "value": "Large Group"
+        },
+        {
+            "value": "National"
+        },
+        {
+            "value": "Small"
+        }
+    ],
+    "funding_type_options": [
+        {
+            "value": "Fully-Insured"
+        },
+        {
+            "value": "Minimum Premium"
+        },
+        {
+            "value": "Self-Insured"
+        }
+    ],
+    "product_type_options": [
+        {
+            "value": "EPO"
+        },
+        {
+            "value": "Indemnity"
+        },
+        {
+            "value": "HMO"
+        },
+        {
+            "value": "PPO"
+        }
+    ],
+    "network_options": [
+        {
+            "value": "Network Blue"
+        },
+        {
+            "value": "Select BlueChoice"
+        }
+    ],
+    "add_region_options": {
+        "state": [],
+        "region": [],
+        "country": [],
+        "zip_code": []
+    }
+}

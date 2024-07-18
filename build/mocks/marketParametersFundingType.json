@@ -1,0 +1,17 @@
+{
+    "funding_type_options": [
+        {
+            "value": "Fully-Insured",
+            "code": "FULLY"
+        },
+        {
+            "value": "Minimum Premium",
+            "code": "MINI"
+        },
+        {
+            "value": "Self-Insured",
+            "code": "SELF"
+        }
+    ]
+   
+}

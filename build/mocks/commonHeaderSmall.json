@@ -1,0 +1,36 @@
+
+{
+
+    "small_header_common": [
+     
+                {
+                    "name":"Contract Tier",
+                    "value":"Tier 1"
+                },
+                {
+                    "name":"Budget Type",
+                    "value":"Market Performance"
+                },
+                {
+                    "name":"Med Stop Loss",
+                    "value":"$150,000(PMPY)"
+                },
+                {
+                    "name":"Drug Stop Loss",
+                    "value":"$150,000(PMPY)"
+                },
+                {
+                    "name":"Risk Type",
+                    "value":"Downside"
+                },
+                {
+                    "name":"Max Shard Saving",
+                    "value":"N%"
+                },
+                {
+                    "name":"Max Shard Losses",
+                    "value":"N%"
+                }
+
+    ]
+}

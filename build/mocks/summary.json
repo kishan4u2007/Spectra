@@ -1,0 +1,466 @@
+{
+  "contract_details": [
+    {
+      "item": "Contract Name",
+      "value": "THINK ACO LOREM IPSUM 2020"
+    },
+    {
+      "item": "Status",
+      "value": "Draft"
+    },
+    {
+      "item": "Visibility",
+      "value": "Private"
+    },
+    {
+      "item": "Created On",
+      "value": "May 27, 2020 09:00"
+    },
+    {
+      "item": "Created By",
+      "value": "Abu Khan"
+    },
+    {
+      "item": "Last saved On",
+      "value": "May 27, 2020 09:00"
+    },
+    {
+      "item": "Last Saved By",
+      "value": "Abu Khan"
+    },
+    {
+      "item": "Client Type",
+      "value": "ACO"
+    },
+    {
+      "item": "Contract Group",
+      "value": "ACO YYY 2020"
+    },
+    {
+      "item": "Contract Template",
+      "value": "None"
+    },
+    {
+      "item": "Notes",
+      "value": "BSBSNE Think Aco"
+    },
+    {
+      "item": "Line of business",
+      "value": "Commercial"
+    },
+    {
+      "item": "Group Type",
+      "value": "All"
+    },
+    {
+      "item": "Funding Type",
+      "value": "May 27, 2020 09:00"
+    },
+    {
+      "item": "Product Type",
+      "value": "All"
+    },
+    {
+      "item": "Network",
+      "value": "All"
+    },
+    {
+      "item": "Medical Stop Loss Limit",
+      "value": "$1,50,000"
+    },
+    {
+      "item": "Drug Stop Loss Limit",
+      "value": "$1,50,000"
+    },
+    {
+      "item": "Expenes Basis",
+      "value": "Lower"
+    },
+    {
+      "item": "Benchmark Period",
+      "value": "All"
+    }
+  ],
+  "budget_setting": [
+    {
+      "benchmark_period_membership": [
+        {
+          "item": "Contract Name",
+          "medical": "134886",
+          "drug": "1,34,8869"
+        },
+        {
+          "item": "Contract Name",
+          "medical": "134886",
+          "drug": "1,34,8869"
+        },
+        {
+          "item": "Contract Name",
+          "medical": "134886",
+          "drug": "1,34,8869"
+        }
+      ],
+      "benchmark_period_actual_expenses": [
+        {
+          "items": [
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            },
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            },
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            }
+          ],
+          "total": [
+            {
+              "total": "Total",
+              "aggergate": "$572,447,703",
+              "pmpm": "$272,447"
+            }
+          ]
+        }
+      ],
+      "benchmark_period_trends": [
+        {
+          "item": "Contract Name",
+          "annual_rate": "134886",
+          "override_trend": "1,34,8869"
+        },
+        {
+          "item": "Contract Name",
+          "annual_rate": "134886",
+          "override_trend": "1,34,8869"
+        },
+        {
+          "item": "Contract Name",
+          "annual_rate": "134886",
+          "override_trend": "1,34,8869"
+        }
+      ],
+      "project_performance_period_expenses": [
+        {
+          "items": [
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            },
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            },
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            }
+          ],
+          "total": [
+            {
+              "total": "Total",
+              "aggergate": "$572,447,703",
+              "pmpm": "$272,447"
+            }
+          ]
+        }
+      ],
+      "benchmark_period_stop_loss": [
+        {
+          "item": "Contract Name",
+          "annual_rate": "134886",
+          "override_trend": "1,34,8869"
+        }
+      ],
+      "adjusted_performance_period_projection": [
+        {
+          "items": [
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            },
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            },
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            }
+          ],
+          "total": [
+            {
+              "total": "Total",
+              "aggergate": "$572,447,703",
+              "pmpm": "$272,447"
+            }
+          ]
+        }
+      ],
+      "benchmark_period_risk_score": [
+        {
+          "item": "Contract Name",
+          "annual_rate": "134886",
+          "override_trend": "1,34,8869"
+        }
+      ],
+      "risk_normalized_projected_expenes": [
+        {
+          "items": [
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            },
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            },
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            }
+          ],
+          "total": [
+            {
+              "total": "Total",
+              "aggergate": "$572,447,703",
+              "pmpm": "$272,447"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gross_saving_loss": [
+    {
+      "performance_period_acutal": [
+        {
+          "item": "Average Risk Score",
+          "medical": "134886",
+          "drug": "1,34,8869"
+        }
+      ],
+      "risk_adjusted_current_budget": [
+        {
+          "items": [
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            },
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            },
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            }
+          ],
+          "total": [
+            {
+              "total": "Total",
+              "aggergate": "$572,447,703",
+              "pmpm": "$272,447"
+            }
+          ]
+        }
+      ],
+      "performance_period_membership": [
+        {
+          "item": "Contract Name",
+          "annual_rate": "134886",
+          "override_trend": "1,34,8869"
+        },
+        {
+          "item": "Contract Name",
+          "annual_rate": "134886",
+          "override_trend": "1,34,8869"
+        }
+      ],
+      "performance_period_actual_expenses": [
+        {
+          "items": [
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            },
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            },
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            }
+          ],
+          "total": [
+            {
+              "total": "Total",
+              "aggergate": "$572,447,703",
+              "pmpm": "$272,447"
+            }
+          ]
+        }
+      ],
+      "Performance_period_stop_loss": [
+        {
+          "item": "Contract Name",
+          "annual_rate": "134886",
+          "override_trend": "1,34,8869"
+        }
+      ],
+      "stop_loss_adjusted_actual_expenses": [
+        {
+          "items": [
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            },
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            },
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            }
+          ],
+          "total": [
+            {
+              "total": "Total",
+              "aggergate": "$572,447,703",
+              "pmpm": "$272,447"
+            }
+          ]
+        }
+      ],
+      "performance_period_gross_saving_loss": [
+        {
+          "items": [
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            },
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            },
+            {
+              "name": "HEDIS",
+              "aggergate": "134567",
+              "pmpm": "66785"
+            }
+          ],
+          "total": [
+            {
+              "total": "Total",
+              "aggergate": "$572,447,703",
+              "pmpm": "$272,447"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contract_settlement": [
+    {
+      "gross_saving_loss": [
+        {
+          "item": "Minimum Gross Saving",
+          "budget": "0.0%",
+          "pmpm": "$0.00"
+        },
+        {
+          "item": "Minimum Gross Saving",
+          "budget": "0.0%",
+          "pmpm": "$0.00"
+        },
+        {
+          "item": "Minimum Gross Saving",
+          "budget": "0.0%",
+          "pmpm": "$0.00"
+        },
+        {
+          "item": "Performance Period Final Gross Saving/Loss",
+          "budget": "0.0%",
+          "pmpm": "$0.00"
+        }
+      ],
+      "saving_loss_share_rate": [
+        {
+          "item": "Minimum Gross Saving",
+          "budget": "0.0%",
+          "pmpm": "$0.00"
+        },
+        {
+          "item": "Minimum Gross Saving",
+          "budget": "0.0%",
+          "pmpm": "$0.00"
+        }
+      ],
+      "quality_performance_adjustment": [
+        {
+          "item": "Shared Saving Rate",
+          "annual_rate": "134886",
+          "override_trend": ""
+        }
+      ],
+      "Intial_performance_periods_shared": [
+        {
+          "item": "Amount",
+          "aggergate": "$1,34886",
+          "pmpm": "$1,34,8869"
+        }
+      ],
+      "shared_savings_loss_rate": [
+        {
+          "item": "Minimum Shared Saving",
+          "annual_rate": "$1,34886",
+          "override_trend": "$1,34,8869"
+        },
+        {
+          "item": "Maximum Shared Saving",
+          "annual_rate": "$1,34886",
+          "override_trend": "$1,34,8869"
+        },
+        {
+          "item": "Minimum Shared Saving",
+          "annual_rate": "$1,34886",
+          "override_trend": "$1,34,8869"
+        }
+      ],
+      "final_performance_periods_shared_loss": [
+        {
+          "item": "Minimum Shared Saving",
+          "annual_rate": "$1,34886",
+          "override_trend": "$1,34,8869"
+        }
+      ]
+    }
+  ]
+}

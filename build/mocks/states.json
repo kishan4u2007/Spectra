@@ -1,0 +1,14 @@
+{
+    "states": [
+        {
+            "id": 1,
+            "value": "Sao Paulo", 
+            "code" : "SAO"
+        },
+        {
+            "id": 2,
+            "value": "Rio de Janeiro",
+            "code" : "RIO"
+        }
+    ]
+}

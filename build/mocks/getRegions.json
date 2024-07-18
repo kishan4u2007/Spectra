@@ -1,0 +1,14 @@
+{
+    "regions": [
+        {
+            "id": 1,
+            "value": "Braganca",
+            "code": "BRA"
+        },
+        {
+            "id": 2,
+            "value": "Atibaia",
+            "code": "ATI"
+        }
+    ]
+}

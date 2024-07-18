@@ -1,0 +1,12 @@
+{ 
+    "network_options": [
+        {
+            "value": "Network Blue",
+            "code": "NAT"
+        },
+        {
+            "value": "Select BlueChoice",
+            "code": "SEL"
+        }
+    ]
+}

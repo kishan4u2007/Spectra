@@ -1,0 +1,14 @@
+{
+    
+    "itens":[
+    {
+        "Status": "Active",
+        "Contract ID": 1,
+        "Contract Name": "test",
+        "Contract Group": "test",
+        "Client Type": "test",
+        "Contract Template": "test",
+        "Contract Type": "test"
+    }
+ ]
+}

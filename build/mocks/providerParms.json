@@ -1,0 +1,18 @@
+{
+"provider_network_name": [
+    {
+      "code": "provider_network_name",
+      "id" : "provider_network_name",
+      "childs": [
+        {
+          "status": "Active",
+          "practice_tin": {"id": 1, "value": "10-23123"},
+          "patient_name": "",
+          "practice_speciality_code": "",
+          "edit": true,
+          "checked": false
+        }
+      ]
+    }
+  ]
+}

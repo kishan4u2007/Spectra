@@ -1,0 +1,64 @@
+{
+    "domain_name":[
+       {
+          "TotalValue":2,
+          "Total":"Total",
+          "name":"Domain A",
+          "childs":[
+             {
+                "measure_identifier":"CDC_CDCH_2018",
+                "measure_category":"Effectiveness of Care",
+                "rate":"86.25%",
+                "alt_measure_name":"Diabetes Care - HbA1c Screening",
+                "measure_name":"Diabetes Care - HbA1c Screening",
+                "baseline_period":"2018",
+                "point":2,
+                "numerator":345,
+                "denominator":400
+             }
+          ]
+       },
+       {
+          "TotalValue":0,
+          "Total":"Total",
+          "name":"Domain B",
+          "childs":[
+             {
+                "measure_identifier":"CHBP_1_2018",
+                "measure_category":"ACCESS_AVAILABILITY_CARE",
+                "rate":"6.32%",
+                "alt_measure_name":"Controlling High Blood Pressure",
+                "measure_name":"Controlling High Blood Pressure",
+                "baseline_period":"2018",
+                "point":0,
+                "numerator":72,
+                "denominator":1140
+             }
+          ]
+       },
+       {
+          "TotalValue":2,
+          "Total":"Total",
+          "name":"Domain C",
+          "childs":[
+             {
+                "measure_identifier":"CDC_CDCN_2018",
+                "measure_category":"ACCESS_AVAILABILITY_CARE",
+                "rate":"77.5%",
+                "alt_measure_name":"Diabetes Care - Kidney Disease Monitoring",
+                "measure_name":"Diabetes Care - Kidney Disease Monitoring",
+                "baseline_period":"2018",
+                "point":2,
+                "numerator":310,
+                "denominator":400
+             }
+          ]
+       }
+    ],
+    "domain_name_grandTotal":[
+        {
+       "name":"Grand Total",
+        "value":4
+       }
+   ]
+ }

@@ -1,0 +1,181 @@
+{
+
+"benchmark_period_membership": [
+        {
+            "benchmark_period":"HEDIS",
+            "medical":"134567",
+            "drug":"66785"
+        },
+        {
+            "benchmark_period":"HEDIS",
+            "medical":"134567",
+            "drug":"66785"
+        }
+],
+"benchmark_period_actual_expenses": [
+    {
+        "items" : [
+            {
+                "benchmark_period_actual":"HEDIS",
+                "aggergate":"134567",
+                "pmpm":"66785"
+            },
+            {
+                "benchmark_period_actual":"HEDIS",
+                "aggergate":"134567",
+                "pmpm":"66785"
+            },
+            {
+                "benchmark_period_actual":"HEDIS",
+                "aggergate":"134567",
+                "pmpm":"66785"
+            }
+        ],
+        "total":[
+            {
+               "total":"Total",
+               "aggergate":"$272,447,703",
+               "pmpm":"$272,447"
+            }
+         ]
+    }
+    
+],
+"benchmark_period_trends": [
+    {
+        "items" : [
+            {
+                "benchmark_period":"Inpatient",
+                "anual_rate":"-3.5000%",
+                "override_trend":"-2.5000%"
+            },
+            {
+                "benchmark_period":"Outpatient",
+                "anual_rate":"-3.5000%",
+                "override_trend":"-2.5000%"
+            },
+            {
+                "benchmark_period":"Professional",
+                "anual_rate":"-3.5000%",
+                "override_trend":"-2.5000%"
+            },
+            {
+                "benchmark_period":"Drugs",
+                "anual_rate":"-3.5000%",
+                "override_trend":"-2.5000%"
+            }
+        ],
+        "total":[
+            {
+               "total":"Total",
+               "anual_rate":"$372,447",
+               "override_trend":"$372,447"
+            }
+         ]
+    }
+   
+],
+"projected_perfomance_period_expenses": [
+    {
+        "items" : [
+            {
+                "projected_perfomance_period":"HEDIS",
+                "aggergate":"134567",
+                "pmpm":"66785"
+            },
+            {
+                "projected_perfomance_period":"HEDIS",
+                "aggergate":"134567",
+                "pmpm":"66785"
+            },
+            {
+                "projected_perfomance_period":"HEDIS",
+                "aggergate":"134567",
+                "pmpm":"66785"
+            }
+        ],
+        "total":[
+            {
+               "total":"Total",
+               "aggergate":"$572,447,703",
+               "pmpm":"$272,447"
+            }
+         ]
+    }
+   
+],
+"benchmark_period_stop_loss": [
+    {
+        "benchmark_period_stop":"HEDIS",
+        "medical":"(134567)",
+        "drug":"(66785)"
+    }
+],
+"adjusted_perfomance_period_projection": [
+    {
+        "items" : [
+            {
+                "adjusted_perfomance_period":"HEDIS",
+                "aggergate":"134567",
+                "pmpm":"66785"
+            },
+            {
+                "adjusted_perfomance_period":"HEDIS",
+                "aggergate":"134567",
+                "pmpm":"66785"
+            },
+            {
+                "adjusted_perfomance_period":"HEDIS",
+                "aggergate":"134567",
+                "pmpm":"66785"
+            }
+        ],
+        "total":[
+            {
+               "total":"Total",
+               "aggergate":"$572,447,703",
+               "pmpm":"$272,447"
+            }
+         ]
+    }
+   
+],	
+"benchmark_period_risk_score": [
+    {
+        "benchmark_period_risk":"HEDIS",
+        "medical":"(134567)",
+        "drug":"(66785)"
+    }
+],
+"risk_normalize_projection_expenses": [
+    {
+        "items" : [
+            {
+                "risk_normalize_projection":"HEDIS",
+                "aggergate":"134567",
+                "pmpm":"66785"
+            },
+            {
+                "risk_normalize_projection":"HEDIS",
+                "aggergate":"134567",
+                "pmpm":"66785"
+            },
+            {
+                "risk_normalize_projection":"HEDIS",
+                "aggergate":"134567",
+                "pmpm":"66785"
+            }
+        ],
+        "total":[
+            {
+               "total":"Total",
+               "aggergate":"$572,447,703",
+               "pmpm":"$272,447"
+            }
+         ]
+    }
+   
+]
+
+
+}

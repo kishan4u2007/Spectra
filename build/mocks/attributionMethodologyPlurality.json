@@ -1,0 +1,14 @@
+{
+   "plurality_basis_options": [
+      {
+         "value": "Allowed Amount",
+         "id" : "allow",
+         "code" : "allow"
+      },
+      {
+         "value": "Service Count",
+         "id" : "service",
+         "code" : "service"
+      }
+   ]
+}

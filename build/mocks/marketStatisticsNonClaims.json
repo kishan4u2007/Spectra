@@ -1,0 +1,31 @@
+{
+  "summary_statistics": [
+    {
+      "first_item": "Incurred Date Range",
+      "last_item": "Jan 2020 - Dec 2020",
+      "period_3": "Jan 2018 - Dec 2018",
+      "period_2": "Jan 2019 - Dec 2019",
+      "period_5": "Jan 2016 - Dec 201",
+      "period_4": "Jan 2017 - Dec 2017",
+      "period_1": "Jan 2020 - Dec 2020"
+    },
+    {
+      "first_item": "Non-Claims Expenses",
+      "last_item": "395,000",
+      "period_1": "100,000",
+      "period_2": "85,000",
+      "period_3": "75,000",
+      "period_4": "70,000",
+      "period_5": "65,000"
+    },
+    {
+      "first_item": "Non-Claims Expenses PMPM",
+      "last_item": "$904.35",
+      "period_1": "$776.54",
+      "period_2": "$733.12",
+      "period_3": "$904.35",
+      "period_4": "$1,113.53",
+      "period_5": "0"
+    }
+  ]
+}

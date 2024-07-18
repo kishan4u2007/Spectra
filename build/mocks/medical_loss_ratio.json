@@ -1,0 +1,85 @@
+{
+  "medical_loss_ratio": [
+    {
+      "first_item": "Incurred Date Range",
+      "last_item": "Jan 2020 - Dec 2020",
+      "period_3": "Jan 2018 - Dec 2018",
+      "period_2": "Jan 2019 - Dec 2019",
+      "period_5": "Jan 2016 - Dec 201",
+      "period_4": "Jan 2017 - Dec 2017",
+      "period_1": "Jan 2020 - Dec 2020"
+    },
+    {
+      "first_item": "Premium Earned",
+      "last_item": "$904.35",
+      "period_1": "$85,000",
+      "period_2": "$67,000",
+      "period_3": "$60,000",
+      "period_4": "$70,000",
+      "period_5": "$52,000"
+    },
+    {
+      "first_item": "Incurred Claims",
+      "last_item": "$904.35",
+      "period_1": "$65,000",
+      "period_2": "$57,000",
+      "period_3": "$50,000",
+      "period_4": "$51,000",
+      "period_5": "$44,000"
+    },
+    {
+      "first_item": "Medical",
+      "last_item": "$904.35",
+      "period_1": "$50,000",
+      "period_2": "$45,000",
+      "period_3": "$40,000",
+      "period_4": "$40,000",
+      "period_5": "$35,000"
+    },
+    {
+      "first_item": "Drug",
+      "last_item": "$15,000",
+      "period_1": "$15,000",
+      "period_2": "$12,000",
+      "period_3": "$10,000",
+      "period_4": "$11,000",
+      "period_5": "$9,000"
+    },
+    {
+      "first_item": "Non-Claims Expenses",
+      "last_item": "$904.35",
+      "period_1": "$1,000",
+      "period_2": "$800",
+      "period_3": "$700",
+      "period_4": "$500",
+      "period_5": "$400"
+    },
+    {
+      "first_item": "MLR Numerator",
+      "last_item": "$904.35",
+      "period_1": "$76,000",
+      "period_2": "$57,800",
+      "period_3": "$70,700",
+      "period_4": "$51,500",
+      "period_5": "$44,400"
+    },
+    {
+      "first_item": "MLR Denominator",
+      "last_item": "$904.35",
+      "period_1": "$70,000",
+      "period_2": "$67,000",
+      "period_3": "$60,000",
+      "period_4": "$50,000",
+      "period_5": "$52,000"
+    },
+    {
+      "first_item": "Unadjusted MLR",
+      "last_item": "82.50%",
+      "period_1": "82.50%",
+      "period_2": "86.27%",
+      "period_3": "84.50%",
+      "period_4": "85.83%",
+      "period_5": "85.38%"
+    }
+  ]
+}

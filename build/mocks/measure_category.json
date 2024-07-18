@@ -1,0 +1,14 @@
+{
+    "quality_measures_measure_category": [
+        {
+            "id": 1,
+            "value": "Brasil",
+            "code": "BR"
+        },
+        {
+            "id": 2,
+            "value": "EUA",
+            "code": "EUA"
+        }
+    ]
+}

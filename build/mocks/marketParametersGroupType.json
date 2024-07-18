@@ -1,0 +1,24 @@
+{ 
+    "group_type_options": [
+        {
+            "value": "Individual",
+            "code": "INDI"
+        },
+        {
+            "value": "valueJumbo",
+            "code": "VAL"
+        },
+        {
+            "value": "Large Group",
+            "code": "LARAGE"
+        },
+        {
+            "value": "National",
+            "code": "NAT"
+        },
+        {
+            "value": "Small",
+            "code": "SML"
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+  "population_historic_medical_total": 0,
+  "population_historic_medical_inpatient_total": 0,
+  "population_historic_medical_outpatient_total": 0,
+  "population_historic_medical_professional_total": 0,
+  "population_historic_drug_total": 0,
+  "population_paid_date_range": "Jan 2015 - Dec 2019",
+  "row_market_statistics": [
+    {
+      "first_item": "Attributed Network Members",
+      "last_item": "0",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Attributed Network Member Months",
+      "last_item": "0",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Attributed Network Member Months %",
+      "last_item": "0.0%",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Total Medical Expense",
+      "last_item": "$0",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Inpatient",
+      "last_item": "$0",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Outpatient",
+      "last_item": "$0",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Professional",
+      "last_item": "$0",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Stop Loss Adjustment",
+      "last_item": "$0",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Stop Loss Adjusted Total Medical Expense",
+      "last_item": "$0",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Average Risk Score",
+      "last_item": "0.0000",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Risk Adjusted Medical PMPM",
+      "last_item": "$0.00",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Number of Months in Period",
+      "last_item": 45,
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    }
+  ],
+  "row_market_drug": [
+    {
+      "first_item": "Attributed Network Members",
+      "last_item": "0",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Attributed Network Member Months",
+      "last_item": "0",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Attributed Network Member Months %",
+      "last_item": "0.0%",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Total Drug Expense",
+      "last_item": "$0",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Stop Loss Adjustment",
+      "last_item": "$0",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Stop Loss Adjusted Total Drug Expense",
+      "last_item": "$0",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Average Risk Score",
+      "last_item": "0.0000",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Risk Adjusted Drug PMPM",
+      "last_item": "$0.00",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Number of Months in Period",
+      "last_item": 42,
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    }
+  ],
+  "statistics_non_claims": [
+    {
+      "first_item": "Attributed Network Members",
+      "last_item": "0",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Non-Claims Expenses",
+      "last_item": "0",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Non-Claims Expenses PMP",
+      "last_item": "0.0%",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    }
+  ],
+  "medical_loss_ratio": [
+    {
+      "first_item": "Premium Earned",
+      "last_item": "$80,000",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Incurred Claims",
+      "last_item": "$65,000",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Medical",
+      "last_item": "$55,000",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Drug",
+      "last_item": "$15,000",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Non-Claims Expenses",
+      "last_item": "$1,000",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "MLR Numerator",
+      "last_item": "$66,000",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "MLR Denominator",
+      "last_item": "$66,000",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    },
+    {
+      "first_item": "Unadjusted MLR",
+      "last_item": "82.50%",
+      "period_3": "--",
+      "period_2": "--",
+      "period_1": "--"
+    }
+  ]
+}
